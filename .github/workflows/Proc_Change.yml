@@ -27,11 +27,12 @@ jobs:
             
             - [ ] Procedure combiner (check it actually combines)
             
-            - [ ] GNG generated maps working (important if GM, BR, VA, ZV - check topsky maps!)
+            - [ ] GNG generated maps working
 
             - [ ] TopSky initial climb (SID)
 
+            - [ ] VatIRIS? (DCTs etc.)
+
             - [ ] Documentation? (renumbering usually don´t require changes)
-            Hint: Check https://wiki.vatsim-scandinavia.org/books/quick-reference/page/aerodromes-qrh
             
             - [ ] TopSky maps/manual maps?
