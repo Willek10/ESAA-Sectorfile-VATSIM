@@ -1,0 +1,38 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESKS RWY\15:freetext
+Free Text:ESKS RWY\33:freetext
+Free Text:ESKS STAND\1:freetext
+Free Text:ESKS STAND\11:freetext
+Free Text:ESKS STAND\12:freetext
+Free Text:ESKS STAND\13:freetext
+Free Text:ESKS STAND\2:freetext
+Free Text:ESKS STAND\3:freetext
+Free Text:ESKS STAND\4:freetext
+Free Text:ESKS STAND\Aeroclub:freetext
+Free Text:ESKS STAND\Fuel:freetext
+Free Text:ESKS STAND\General aviation:freetext
+Free Text:ESKS STAND\Terminal:freetext
+Free Text:ESKS TAXIWAY\A:freetext
+Geo:ESKS Groundlayout:
+Regions:ESKS GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:303.10000
+TAGFAMILY:GRplugin
+WINDOWAREA:61.139198:12.804004:61.188560:12.865323
+PLUGIN:Ground Radar plugin:GroundMode:ESKS
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

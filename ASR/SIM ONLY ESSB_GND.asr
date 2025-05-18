@@ -1,0 +1,66 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESSB RWY\12:freetext
+Free Text:ESSB RWY\30:freetext
+Free Text:ESSB STAND\10:freetext
+Free Text:ESSB STAND\11:freetext
+Free Text:ESSB STAND\12:freetext
+Free Text:ESSB STAND\13:freetext
+Free Text:ESSB STAND\14:freetext
+Free Text:ESSB STAND\15:freetext
+Free Text:ESSB STAND\16:freetext
+Free Text:ESSB STAND\17:freetext
+Free Text:ESSB STAND\18:freetext
+Free Text:ESSB STAND\19:freetext
+Free Text:ESSB STAND\3:freetext
+Free Text:ESSB STAND\4:freetext
+Free Text:ESSB STAND\5:freetext
+Free Text:ESSB STAND\6:freetext
+Free Text:ESSB STAND\7:freetext
+Free Text:ESSB STAND\8:freetext
+Free Text:ESSB STAND\9:freetext
+Free Text:ESSB STAND\APN 4:freetext
+Free Text:ESSB STAND\APN 6:freetext
+Free Text:ESSB STAND\APN 7:freetext
+Free Text:ESSB STAND\APN East:freetext
+Free Text:ESSB STAND\Deice:freetext
+Free Text:ESSB STAND\Fuel:freetext
+Free Text:ESSB STAND\Grafair:freetext
+Free Text:ESSB STAND\HeliAir Sweden:freetext
+Free Text:ESSB STAND\IFLY:freetext
+Free Text:ESSB STAND\Remote APN North:freetext
+Free Text:ESSB TAXIWAY\G1:freetext
+Free Text:ESSB TAXIWAY\R:freetext
+Free Text:ESSB TAXIWAY\S:freetext
+Free Text:ESSB TAXIWAY\T:freetext
+Free Text:ESSB TAXIWAY\Y:freetext
+Free Text:ESSB TAXIWAY\Y:freetext
+Free Text:ESSB TAXIWAY\Y:freetext
+Free Text:ESSB TAXIWAY\Y:freetext
+Free Text:ESSB TAXIWAY\Y1:freetext
+Free Text:ESSB TAXIWAY\Y2 (Run up):freetext
+Free Text:ESSB TAXIWAY\Y3:freetext
+Free Text:ESSB TAXIWAY\Y4:freetext
+Free Text:ESSB TAXIWAY\Y5:freetext
+Free Text:ESSB TAXIWAY\YU:freetext
+Free Text:ESSB TAXIWAY\YW:freetext
+Geo:ESSB Groundlayout:
+Regions:ESSB GROUND:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:144.94000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.349121:17.907095:59.364155:17.972628
+PLUGIN:TopSky plugin:HideMapData:ACC

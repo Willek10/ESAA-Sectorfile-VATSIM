@@ -1,0 +1,58 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESIB RWY\01:freetext
+Free Text:ESIB RWY\11:freetext
+Free Text:ESIB RWY\19:freetext
+Free Text:ESIB RWY\29:freetext
+Free Text:ESIB STAND\(JAS):freetext
+Free Text:ESIB STAND\1:freetext
+Free Text:ESIB STAND\2:freetext
+Free Text:ESIB STAND\3:freetext
+Free Text:ESIB STAND\4:freetext
+Free Text:ESIB STAND\5:freetext
+Free Text:ESIB STAND\6:freetext
+Free Text:ESIB STAND\APN 1:freetext
+Free Text:ESIB STAND\APN 2 (JAS):freetext
+Free Text:ESIB STAND\APN 3:freetext
+Free Text:ESIB STAND\APN 4:freetext
+Free Text:ESIB STAND\APN 5:freetext
+Free Text:ESIB STAND\APN 6 (TP):freetext
+Free Text:ESIB STAND\APN 7:freetext
+Free Text:ESIB STAND\APN 9:freetext
+Free Text:ESIB TAXIWAY\A:freetext
+Free Text:ESIB TAXIWAY\A:freetext
+Free Text:ESIB TAXIWAY\A1:freetext
+Free Text:ESIB TAXIWAY\E:freetext
+Free Text:ESIB TAXIWAY\F:freetext
+Free Text:ESIB TAXIWAY\M:freetext
+Free Text:ESIB TAXIWAY\M:freetext
+Free Text:ESIB TAXIWAY\N:freetext
+Free Text:ESIB TAXIWAY\N1:freetext
+Free Text:ESIB TAXIWAY\S:freetext
+Free Text:ESIB TAXIWAY\S:freetext
+Free Text:ESIB TAXIWAY\S:freetext
+Free Text:ESIB TAXIWAY\S1:freetext
+Free Text:ESIB TAXIWAY\V:freetext
+Free Text:ESIB TAXIWAY\V1:freetext
+Geo:ESIB Groundlayout:
+Regions:ESIB GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:265.40000
+TAGFAMILY:GRplugin
+WINDOWAREA:58.414130:12.669320:58.444307:12.783622
+PLUGIN:Ground Radar plugin:GroundMode:ESIB
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

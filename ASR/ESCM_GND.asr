@@ -1,0 +1,52 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESCM RWY\03:freetext
+Free Text:ESCM RWY\08:freetext
+Free Text:ESCM RWY\21:freetext
+Free Text:ESCM RWY\26:freetext
+Free Text:ESCM RWY\H17:freetext
+Free Text:ESCM RWY\H35:freetext
+Free Text:ESCM STAND\2x C130 or 1x C17:freetext
+Free Text:ESCM STAND\APN 1:freetext
+Free Text:ESCM STAND\APN 2:freetext
+Free Text:ESCM STAND\APN Cargo:freetext
+Free Text:ESCM STAND\APN Central:freetext
+Free Text:ESCM STAND\APN East:freetext
+Free Text:ESCM STAND\APN North:freetext
+Free Text:ESCM STAND\APN West:freetext
+Free Text:ESCM TAXIWAY\A:freetext
+Free Text:ESCM TAXIWAY\A:freetext
+Free Text:ESCM TAXIWAY\A:freetext
+Free Text:ESCM TAXIWAY\B:freetext
+Free Text:ESCM TAXIWAY\C:freetext
+Free Text:ESCM TAXIWAY\C:freetext
+Free Text:ESCM TAXIWAY\D:freetext
+Free Text:ESCM TAXIWAY\E:freetext
+Free Text:ESCM TAXIWAY\F:freetext
+Free Text:ESCM TAXIWAY\F:freetext
+Free Text:ESCM TAXIWAY\G:freetext
+Free Text:ESCM TAXIWAY\H:freetext
+Free Text:ESCM TAXIWAY\J:freetext
+Free Text:ESCM TAXIWAY\K:freetext
+Geo:ESCM Groundlayout:
+Regions:ESCM GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.15000
+TAGFAMILY:GRplugin
+WINDOWAREA:59.882851:17.545747:59.913490:17.660049
+PLUGIN:Ground Radar plugin:GroundMode:ESCM
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

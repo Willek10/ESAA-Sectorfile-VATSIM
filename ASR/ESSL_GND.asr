@@ -1,0 +1,50 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESSL RWY\(Old runway layout):freetext
+Free Text:ESSL RWY\11:freetext
+Free Text:ESSL RWY\29:freetext
+Free Text:ESSL STAND\1:freetext
+Free Text:ESSL STAND\2:freetext
+Free Text:ESSL STAND\3:freetext
+Free Text:ESSL STAND\Aeroclub:freetext
+Free Text:ESSL STAND\Engine test area:freetext
+Free Text:ESSL STAND\GAC APN:freetext
+Free Text:ESSL STAND\KLM STD 1, Other STD 2:freetext
+Free Text:ESSL STAND\MIL APN (SB39 testing):freetext
+Free Text:ESSL STAND\Saab GlobalEye:freetext
+Free Text:ESSL STAND\Terminal:freetext
+Free Text:ESSL TAXIWAY\A:freetext
+Free Text:ESSL TAXIWAY\B:freetext
+Free Text:ESSL TAXIWAY\C inner:freetext
+Free Text:ESSL TAXIWAY\C outer:freetext
+Free Text:ESSL TAXIWAY\D:freetext
+Free Text:ESSL TAXIWAY\H:freetext
+Free Text:ESSL TAXIWAY\HELGE N:freetext
+Free Text:ESSL TAXIWAY\I:freetext
+Free Text:ESSL TAXIWAY\K:freetext
+Free Text:ESSL TAXIWAY\L:freetext
+Free Text:ESSL TAXIWAY\M:freetext
+Geo:ESSL Groundlayout:
+Geo:ESSL Groundlayout OLD:
+Regions:ESSL GROUND:polygon
+SHOWC:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:337.80000
+TAGFAMILY:GRplugin
+WINDOWAREA:58.396751:15.644557:58.416064:15.717712
+PLUGIN:Ground Radar plugin:GroundMode:ESSL
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

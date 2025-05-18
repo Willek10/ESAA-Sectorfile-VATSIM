@@ -1,0 +1,51 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNU RWY\14:freetext
+Free Text:ESNU RWY\32:freetext
+Free Text:ESNU RWY\FATO:freetext
+Free Text:ESNU RWY\TLOF:freetext
+Free Text:ESNU STAND\1:freetext
+Free Text:ESNU STAND\2:freetext
+Free Text:ESNU STAND\3:freetext
+Free Text:ESNU STAND\31:freetext
+Free Text:ESNU STAND\32:freetext
+Free Text:ESNU STAND\33:freetext
+Free Text:ESNU STAND\4:freetext
+Free Text:ESNU STAND\5:freetext
+Free Text:ESNU STAND\6:freetext
+Free Text:ESNU STAND\7:freetext
+Free Text:ESNU STAND\8:freetext
+Free Text:ESNU STAND\9:freetext
+Free Text:ESNU STAND\Aeroclub:freetext
+Free Text:ESNU STAND\Cargo Apron:freetext
+Free Text:ESNU STAND\Fuel:freetext
+Free Text:ESNU STAND\KSA:freetext
+Free Text:ESNU STAND\SAA:freetext
+Free Text:ESNU STAND\SAR:freetext
+Free Text:ESNU STAND\Terminal:freetext
+Free Text:ESNU TAXIWAY\B:freetext
+Free Text:ESNU TAXIWAY\C:freetext
+Free Text:ESNU TAXIWAY\D:freetext
+Free Text:ESNU TAXIWAY\HEL TWY:freetext
+Geo:ESNU Groundlayout:
+Regions:ESNU GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:131.48000
+TAGFAMILY:GRplugin
+WINDOWAREA:63.786364:20.262017:63.797931:20.309288
+PLUGIN:Ground Radar plugin:GroundMode:ESNU
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

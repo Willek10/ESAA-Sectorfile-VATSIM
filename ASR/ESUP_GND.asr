@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESUP RWY\11:freetext
+Free Text:ESUP RWY\29:freetext
+Free Text:ESUP STAND\1:freetext
+Free Text:ESUP STAND\2:freetext
+Free Text:ESUP STAND\3:freetext
+Free Text:ESUP STAND\Fuel:freetext
+Free Text:ESUP TAXIWAY\A:freetext
+Geo:ESUP Groundlayout:
+Regions:ESUP GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:152.20000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:67.234547:23.040933:67.254156:23.114087
+PLUGIN:TopSky plugin:HideMapData:ACC

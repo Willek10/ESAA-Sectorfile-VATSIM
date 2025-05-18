@@ -1,0 +1,776 @@
+Setup_COOPANS=1
+Airspace_833_Min=0
+Airspace_AOR_Airports=ES
+Airspace_AOR_Positions=ES
+Airspace_P_Flag=EKCH,ESGG,ESGJ,ESKN,ESKS,ESMS,ESNN,ESNQ,ESNU,ESNZ,ESPA,ESSA,ESSB,ESSD,ESSV,ESTA
+Airspace_NOTAM_Add=ESAA
+Airspace_NOTAM_Remove=EFKE,EFMA,EFRO,EKCH,ENGM,ENRY,ENTO
+Airspace_SIGMET_Areas=EDWW,EETT,EFIN,EKDK,ENBD,ENOS,EPWW,ESAA,EVRR,EYVL,UMKK
+AIW_FlightRules=1
+AMAN_Airports=ESSA,ESSB,EKCH
+AMAN_MinState=1
+AMAN_URL=http://skytry.xyz/max
+
+APW_Filter=0
+APW_Uncontrolled=2
+APW_UseCFL=0
+APW_Buffer_Lat_L_IFR=0
+APW_Buffer_Lat_L_VFR=0
+APW_Buffer_Lat_U=0
+APW_Buffer_Vert_L_IFR=200
+APW_Buffer_Vert_L_VFR=0
+APW_Buffer_Vert_U=800
+
+Areas_AUP_Activation=1
+Areas_AUP_UserText=
+Areas_PreActiveTime=900
+Areas_Label_Name=1,0
+Areas_Label_NextPeriod=0,0
+Areas_Label_UserText=3,1
+Areas_NOTAM_Activation=0
+CPDLC_AutoAcceptLogon=1
+CPDLC_AutoAcceptLogon_Time=15
+CPDLC_MinLevel=1
+CPDLC_PDC_Auto=1
+CPDLC_Transfer=1
+CPDLC_VCI_UM_Type=0
+
+Color_Informed=152,156,238
+
+Divergence_CLAM_DelayTime=600
+Divergence_RAM_Uncontrolled=0
+Divergence_RAM_Limit=3
+Divergence_RAM_DCT_MaxTrkError=10
+
+Equip_Assume_All_SSRs_Mode_S=1
+Equip_UseCodes=0
+Equip_Use_SUR_Mode_S=0
+Equip_Use_SUR_Mode_S_EHS=0
+Equip_Use_SUR_Mode_S_FLTID=0
+
+FPCP_4D_PathBuffer_Climb_Max=6000
+FPCP_4D_PathBuffer_Descent_Max=6000
+
+HTTP_AUP_URL=https://statsim.net/lfvuseplan/beta/.txt
+HTTP_GRIB_Latitude_Max=71
+HTTP_GRIB_Latitude_Min=53
+HTTP_GRIB_Longitude_Max=26
+HTTP_GRIB_Longitude_Min=9
+Label_Extended_MaxChars=55
+Label_Field18_Flag_Items=SAR,HOSP,MEDEVAC,STATE,HEAD,STAYINFO,NEW
+Label_Rev_Highlight_Delta_ETN=15
+Label_AMA_Default=1100
+List_ETWR_MaxTime=15
+List_Holding_MaxItems=20
+List_Lost_Filter=1
+List_PreAct_MaxTime=60
+List_PreAct_MaxTime_NotStarted=15
+List_PreAct_NotStartedMustBeAssumed=0
+List_TfcMgmt_MinState=1
+List_TfcMgmt_MaxTime=45
+List_TfcMgmt1_FPstate=3
+List_TfcMgmt2_FPstate=3
+List_VFR_FPL_Area=69.5,20.50,68.2,24.3,65.5,25.0,62.65,21.0,59.20,21.83,55.2,20.0,54.00,14.25,54.70,12.50,58.1,09.8,60.60,11.50,63.60,11.50,68.30,16.30,69.5,20.50
+Menu_ASP_MaxMach=90
+Menu_ASP_MinMach=55
+Menu_ASP_MaxSpeed=500
+Menu_ASP_MinSpeed=50
+Menu_DAPs=1
+Menu_Level_MaxValue_10=510
+MSAW_AppInhibit=1
+MSAW_UseCFL=0
+MSAW_VFR=0
+MTCD_Filter_Dep=2
+MTCD_DeAcknowledge=2
+MTCD_PLC_Time=25
+MTCD_PPC_Time_Filter=15
+MTCD_Sep_Lat=10
+RDF_Accuracy=2
+RDF_Mode=2
+RDF_Floor=0
+RwyAppLines_Auto=1
+RwyAppLines_Ext_Length=25
+
+SAP_AHDG=0
+SAP_PreActive=0
+SAP_Risks=0
+SAP_Risks_Window=0
+SAP_Buffer_Lat_L_IFR=0
+SAP_Buffer_Lat_L_VFR=0
+SAP_Buffer_Lat_U=0
+SAP_Buffer_Vert_L_IFR=200
+SAP_Buffer_Vert_L_VFR=0
+SAP_Buffer_Vert_U=800
+SAP_Floor=0
+
+
+Shortcut_Notepad=0x70
+Shortcut_SEP=0x71
+Shortcut_QDM=0x72
+Shortcut_Quick_Look=0x73
+Shortcut_Vector=0x74
+Shortcut_Rwy_Line=0x75
+Shortcut_FPL_Search=0x76
+Shortcut_Find_Track=0x77
+Shortcut_Create_APL=0x78
+Shortcut_Uncoupled_Label_Combo=0x12
+Shortcut_Uncoupled_Label=0x79
+Shortcut_QNHTL=0x7A
+Shortcut_Track_Control=0x7B
+Shortcut_FPL=0x00
+Shortcut_Map_Xfr_Key=1,0x41
+Shortcut_Map_Target=1,ACC\ATS ROUTES BASIC
+Shortcut_Map_Xfr_Key=2,0x56
+Shortcut_Map_Target=2,NAVIGATION\VFR
+Shortcut_Map_Xfr_Key=3,0x46
+Shortcut_Map_Target=3,FREQ\APP/TWR/AFIS
+Shortcut_Map_Xfr_Key=4,0x54
+//Shortcut_Map_Target=4,ARTCC LOW\ESAA TMA SUBSECTOR
+Shortcut_Map_Target=4,TEXT INFO\TMA ALTITUDES
+Shortcut_Map_Xfr_Key=5,0x4D
+Shortcut_Map_Target=5,AMA/MVA\AMA/MVA
+Shortcut_Map_Xfr_Key=6,0x42
+Shortcut_Map_Target=6,NAVIGATION\VFR + L
+
+STCA_AlertSound=1
+STCA_AlertSound_Filter=2
+STCA_Floor=1700
+STCA_Uncorrelated=1
+STCA_UseCFL=0
+STCA_Sep_Lat_SepLevel=19500
+
+System_APL_Controlled=0
+System_ASP_IasMach=28500
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_TIP_ACP=1
+System_FindTrack_Time=15
+System_FPASD=0
+System_GUI_Scale_Cursors=0.9
+System_GUI_Scale_GlobalMenu=1.1
+System_GUI_Scale_Menus=1.1
+System_GUI_Scale_Tracks=1.1
+System_GUI_Scale_Windows=1.1
+System_MagModel_Year=2024
+System_TaxiTime=10
+System_TransferConfirmation=2
+System_TrueColorMode=1
+System_UseILScat=1
+System_UseReportedGS=0
+System_MaxMinSepTime=240
+
+Vector_MinSep_Diverging_Time=120
+Vector_MinSep_VertSep_Ext_Time=1
+Vector_MinSep_VertSep_Ext_Time_Div=1
+Vector_MinSep_VertSep_Separation=1000
+Vector_MinSep_VertSep_ShowStart=0
+
+Window_ASM=0,100,400,640,317
+Window_CPDLC_Setting=0,100,400
+Window_CARD=0,100,900
+Window_CARD_Slider_Distance=10
+Window_CARD_View_DownstreamPred=1
+Window_CARD_View_Risk=0
+Window_CPDLC_Setting=0,100,400
+Window_DCL_SetASSR=1
+Window_DCL_SetCFL=1
+Window_PDC_SetASSR=1
+Window_PDC_SetCFL=1
+Window_QNHTL_MaxListItemsLimit=30
+Window_SM_LeaveHoldTime=5
+Window_UpperWinds=0,498,400
+
+
+WXR_Latitude=63.5
+WXR_Latitude_Max=72
+WXR_Latitude_Min=52
+WXR_Longitude=15
+WXR_Longitude_Max=27
+WXR_Longitude_Min=8
+
+Label_WTC_Highlight_ATYP=B752,B753,T204
+Label_WTC_Highlight_WTC=J
+
+
+[_CTR]
+FlightLeg_AutoShow=1
+Window_CPDLC_Setting=1
+Window_CARD=1
+Window_ASM=1,100,400,640,317
+Window_UpperWinds=3,498,400
+[_APP]
+Divergence_RAM=0
+Track_PredictionLine=1
+Label_WTC_Highlight_WTC=LH
+Setup_LoadMap=NAVIGATION\VFR
+Setup_LoadMap=TEXT INFO\TMA ALTITUDES
+Window_ASM=1,100,400,640,317
+Window_UpperWinds=3,498,400
+[_DEP]
+Divergence_RAM=0
+Track_PredictionLine=1
+Label_WTC_Highlight_WTC=LH
+Setup_LoadMap=NAVIGATION\VFR
+Setup_LoadMap=TEXT INFO\TMA ALTITUDES
+Window_ASM=1,100,400,640,317
+Window_UpperWinds=3,498,400
+[_TWR]
+Divergence_RAM=0
+Track_PredictionLine=1
+Label_AHDG_ShowExtra=1
+Label_WTC_Highlight_WTC=LH
+Setup_LoadMap=NAVIGATION\VFR
+Setup_LoadMap=TEXT INFO\TMA ALTITUDES
+Window_ASM=1,100,400,640,317
+Window_UpperWinds=3,498,400
+[_GND]
+Label_AHDG_ShowExtra=1
+Label_WTC_Highlight_WTC=LH
+System_TransferConfirmation=0
+[_DEL]
+Label_AHDG_ShowExtra=1
+Label_WTC_Highlight_WTC=LH
+System_TransferConfirmation=0
+[ESSR_]
+Airspace_C_Flag=ESCF,ESCM,ESDF,ESGJ,ESIA,ESKN,ESKS,ESMQ,ESMX,ESNN,ESNO,ESNQ,ESNS,ESNU,ESNX,ESNZ,ESOE,ESOK,ESOW,ESPA,ESPE,ESSB,ESSD,ESSL,ESSP,ESSU,ESSV
+FlightLeg_AutoShow=0
+Divergence_RAM=0
+Track_PredictionLine=1
+Label_AHDG_ShowExtra=1
+Label_WTC_Highlight_WTC=LH
+Setup_LoadMap=NAVIGATION\VFR
+Setup_LoadMap=TEXT INFO\TMA ALTITUDES
+Setup_LoadView=ESAA
+[ESSR_MM]
+Airspace_C_Flag=ESGP,ESGT,ESIB,ESMK,ESMS,ESMT,ESMX,ESTA,ESTL
+Setup_LoadView=ESMM
+[ESAA_]
+Airspace_C_Flag=EKCH,EKRN,ESCF,ESCM,ESDF,ESGG,ESGJ,ESGP,ESGT,ESIA,ESIB,ESKN,ESKS,ESMK,ESMQ,ESMS,ESMT,ESMX,ESNN,ESNO,ESNQ,ESNS,ESNU,ESNX,ESNZ,ESOE,ESOK,ESOW,ESPA,ESPE,ESSA,ESSB,ESSD,ESSL,ESSP,ESSU,ESSV,ESTA,ESTL
+Setup_LoadView=ESAA
+Setup_ScreenLat=ESSA
+Label_WTC_Highlight_ATYP=A124,A225,B748,A345,A346,B779,C5,C5M
+Setup_LoadMap=ACC\ATS ROUTES BASIC
+Setup_LoadMap=LOA ESOS\RELEASE LINE ESEBA
+Setup_LoadMap=LOA ESOS\RELEASE LINE OGLAV
+Setup_LoadMap=LOA ESOS\RELEASE LINE OSKOK
+Setup_LoadMap=LOA ESOS\RELEASE LINE XELVI
+Setup_LoadMap=LOA ESOS\RELEASE LINE Z320
+Setup_LoadMap=LOA ESOS\SIGTUNA
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW NORTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW SOUTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EPWW EAST
+Setup_LoadMap=LOA ESMM\RELEASE LINE EPWW WEST
+Setup_LoadMap=LOA ESMM\RELEASE AREA TANUM
+Setup_LoadMap=LOA ESMM\RELEASE LINE TUMGU
+Setup_LoadMap=LOA ESMM\RELEASE LINE CODAN
+Setup_LoadMap=LOA ESMM\RELEASE LINE GOTEBORG
+Setup_LoadMap=LOA ESMM\RELEASE LINE LOBBI
+Setup_LoadMap=LOA ESMM\RELEASE LINE DISGO
+Setup_LoadMap=LOA ESMM\RELEASE LINE ERNOV
+Setup_LoadMap=LOA ESMM\RELEASE LINE ESJAH
+Setup_LoadMap=LOA ESMM\AREA MALMO CITY
+[ESOS_]
+Airspace_C_Flag=ESCF,ESCM,ESDF,ESGJ,ESIA,ESKN,ESKS,ESMQ,ESMX,ESNN,ESNO,ESNQ,ESNS,ESNU,ESNX,ESNZ,ESOE,ESOK,ESOW,ESPA,ESPE,ESSA,ESSB,ESSD,ESSL,ESSP,ESSU,ESSV
+Label_WTC_Highlight_ATYP=A124,A225,B748,A345,A346,B779,C5,C5M
+Setup_LoadMap=ACC\ATS ROUTES BASIC
+Setup_LoadMap=LOA ESOS\RELEASE LINE ESEBA
+Setup_LoadMap=LOA ESOS\RELEASE LINE OGLAV
+Setup_LoadMap=LOA ESOS\RELEASE LINE OSKOK
+Setup_LoadMap=LOA ESOS\RELEASE LINE XELVI
+Setup_LoadMap=LOA ESOS\RELEASE LINE Z320
+Setup_LoadMap=LOA ESOS\SIGTUNA
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW NORTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW SOUTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EPWW EAST
+Setup_LoadMap=LOA ESMM\RELEASE LINE EPWW WEST
+Setup_LoadMap=LOA ESMM\RELEASE AREA TANUM
+Setup_LoadMap=LOA ESMM\RELEASE LINE TUMGU
+Setup_LoadMap=LOA ESMM\RELEASE LINE CODAN
+Setup_LoadMap=LOA ESMM\RELEASE LINE GOTEBORG
+Setup_LoadMap=LOA ESMM\RELEASE LINE LOBBI
+Setup_LoadMap=LOA ESMM\RELEASE LINE DISGO
+Setup_LoadMap=LOA ESMM\RELEASE LINE ERNOV
+Setup_LoadMap=LOA ESMM\RELEASE LINE ESJAH
+Setup_LoadMap=LOA ESMM\AREA MALMO CITY
+[ESOS_1]
+List_TfcMgmt1_ADES=ESSA
+Setup_LoadView=ESOS
+Setup_ScreenLat=ESSA
+[ESOS_2]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=NILUG,TRS
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=TRS
+Setup_LoadView=ESOS
+Setup_ScreenLat=58.5
+[ESOS_3]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=ELTOK
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=ARS
+Setup_LoadView=ESAA
+Setup_ScreenLat=ESSA
+[ESOS_4]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=HMR
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=HMR
+Setup_LoadView=ESOS
+Setup_ScreenLat=60.5
+[ESOS_6]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=XILAN
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=XILAN
+Setup_LoadView=ESOS
+Setup_ScreenLat=59.0
+[ESOS_7]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=NILUG,TRS
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=TRS
+Setup_LoadView=ESOS
+Setup_ScreenLat=58.5
+[ESOS_8]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=ELTOK
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=ARS
+Setup_LoadView=ESOS
+Setup_ScreenLat=ESSA
+[ESOS_9]
+List_TfcMgmt1_ADES=ESSA
+Setup_LoadView=ESOS
+Setup_ScreenLat=57.0
+[ESOS_F]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=HMR
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=HMR
+Setup_LoadView=ESOS F+K+N
+Setup_ScreenLat=62.0
+[ESOS_K]
+Setup_LoadView=ESOS K
+Setup_ScreenLat=66.0
+[ESOS_N]
+List_TfcMgmt1_ADES=ESSA
+List_TfcMgmt1_Via=HMR
+List_TfcMgmt2_ADES=ESSB
+List_TfcMgmt2_Via=HMR
+Setup_LoadView=ESOS F+K+N
+Setup_ScreenLat=62.6
+[ESOS_XK]
+Setup_LoadView=ESOS K
+Setup_ScreenLat=66.0
+[ESOS_YK]
+Setup_LoadView=ESOS K
+Setup_ScreenLat=66.0
+[ESMM_]
+Airspace_C_Flag=EKCH,EKRN,ESDF,ESGG,ESGJ,ESGP,ESGT,ESIA,ESIB,ESMK,ESMQ,ESMS,ESMT,ESMX,ESOE,ESOK,ESSV,ESTA,ESTL
+Setup_LoadView=ESMM
+Setup_LoadMap=ACC\ATS ROUTES BASIC
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW NORTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW SOUTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EPWW EAST
+Setup_LoadMap=LOA ESMM\RELEASE LINE EPWW WEST
+Setup_LoadMap=LOA ESMM\RELEASE AREA TANUM
+Setup_LoadMap=LOA ESMM\RELEASE LINE TUMGU
+Setup_LoadMap=LOA ESMM\RELEASE LINE CODAN
+Setup_LoadMap=LOA ESMM\RELEASE LINE GOTEBORG
+Setup_LoadMap=LOA ESMM\RELEASE LINE LOBBI
+Setup_LoadMap=LOA ESMM\RELEASE LINE DISGO
+Setup_LoadMap=LOA ESMM\RELEASE LINE ERNOV
+Setup_LoadMap=LOA ESMM\RELEASE LINE ESJAH
+Setup_LoadMap=LOA ESMM\AREA MALMO CITY
+[ESMM_2]
+Setup_ScreenLat=57.0
+[ESMM_3]
+Setup_ScreenLat=56.0
+[ESMM_4]
+Setup_ScreenLat=58.3
+[ESMM_5]
+List_TfcMgmt1_ADES=ESGG
+List_TfcMgmt2_ADES=EKCH
+List_TfcMgmt2_Via=ERNOV,TIDVU
+Setup_ScreenLat=57.0
+[ESMM_6]
+Setup_ScreenLat=57.5
+[ESMM_7]
+List_TfcMgmt1_ADES=EKCH
+List_TfcMgmt1_Via=ERNOV,TIDVU
+List_TfcMgmt2_ADES=ESMS
+Setup_ScreenLat=57.0
+[ESMM_8]
+List_TfcMgmt1_ADES=EKCH
+List_TfcMgmt1_Via=ERNOV,TIDVU
+List_TfcMgmt2_ADES=ESMS
+Setup_ScreenLat=56.0
+[ESMM_9]
+Setup_ScreenLat=55.5
+[ESMM_K]
+List_TfcMgmt1_ADES=EKCH
+List_TfcMgmt1_Via=ERNOV,TIDVU
+List_TfcMgmt2_ADES=ESMS
+List_ETWR_ADEP=ESMS,EKCH
+Setup_ScreenLat=56.3
+[ESMM_W]
+Setup_ScreenLat=57.5
+[ESMM_Y]
+Airspace_C_Flag=ESSV
+Setup_ScreenLat=58.0
+[ESCF_]
+Airspace_C_Flag=ESCF
+List_TfcMgmt1_ADES=ESCF
+System_QFE_AD_Elevation=308
+Setup_LoadView=ESCF
+Setup_ScreenLat=ESCF
+[ESCM_]
+Airspace_C_Flag=ESCM
+List_ETWR_ADEP=ESCM
+List_TfcMgmt1_ADES=ESCM
+System_QFE_AD_Elevation=68
+Setup_LoadView=ESCM
+Setup_ScreenLat=ESCM
+[ESDF_]
+Airspace_C_Flag=ESDF
+List_ETWR_ADEP=ESDF
+List_TfcMgmt1_ADES=ESDF
+System_QFE_AD_Elevation=191
+Setup_LoadView=ESDF
+Setup_ScreenLat=ESDF
+[ESGG_]
+Airspace_C_Flag=ESGG
+List_TfcMgmt1_ADES=ESGG
+System_QFE_AD_Elevation=507
+Setup_LoadView=ESGG
+Setup_ScreenLat=ESGG
+Setup_LoadMap=LOA ESMM\RELEASE LINE GOTEBORG
+Setup_LoadMap=LOA ESMM\RELEASE LINE LOBBI
+Window_CPDLC_Setting=1
+WXR_Zoom=6
+WXR_Latitude=57.8
+WXR_Longitude=12.3
+[ESGG_E]
+Airspace_C_Flag=ESGG,ESGP,ESGT,ESIB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+List_ETWR_ADEP=ESGG
+[ESGG_W]
+Airspace_C_Flag=ESGG,ESGP,ESGT,ESIB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+List_ETWR_ADEP=ESGG
+[ESGG_A]
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Window_CPDLC_Setting=0
+[ESGJ_]
+Airspace_C_Flag=ESGJ
+List_TfcMgmt1_ADES=ESGJ
+System_QFE_AD_Elevation=742
+Setup_LoadView=ESGJ
+Setup_ScreenLat=ESGJ
+[ESGP_]
+Airspace_C_Flag=ESGP
+List_TfcMgmt1_ADES=ESGP
+System_QFE_AD_Elevation=59
+Setup_LoadView=ESGP
+Setup_ScreenLat=ESGP
+[ESGT_]
+Airspace_C_Flag=ESGT
+List_TfcMgmt1_ADES=ESGT
+System_QFE_AD_Elevation=137
+Setup_LoadView=ESGT
+Setup_ScreenLat=ESGT
+[ESIA_]
+Airspace_C_Flag=ESIA
+List_ETWR_ADEP=ESIA
+List_TfcMgmt1_ADES=ESIA
+System_QFE_AD_Elevation=310
+Setup_LoadView=ESIA
+Setup_ScreenLat=ESIA
+[ESIB_]
+Airspace_C_Flag=ESGT,ESIB
+List_ETWR_ADEP=ESIB,ESGT
+List_TfcMgmt1_ADES=ESIB
+System_QFE_AD_Elevation=181
+Setup_LoadView=ESIB
+Setup_ScreenLat=ESIB
+[ESKN_]
+Airspace_C_Flag=ESKN
+List_TfcMgmt1_ADES=ESKN
+System_QFE_AD_Elevation=140
+Setup_LoadView=ESKN
+Setup_ScreenLat=ESKN
+[ESKS_]
+Airspace_C_Flag=ESKS
+List_TfcMgmt1_ADES=ESKS
+System_QFE_AD_Elevation=1649
+Setup_LoadView=ESKS
+Setup_ScreenLat=ESKS
+[ESMK_]
+Airspace_C_Flag=ESMK
+List_TfcMgmt1_ADES=ESMK
+System_QFE_AD_Elevation=76
+Setup_LoadView=ESMK
+Setup_ScreenLat=ESMK
+[ESMQ_]
+Airspace_C_Flag=ESMQ
+List_TfcMgmt1_ADES=ESMQ
+System_QFE_AD_Elevation=18
+Setup_LoadView=ESMQ
+Setup_ScreenLat=ESMQ
+[ESMS_]
+Airspace_C_Flag=ESMS
+List_TfcMgmt1_ADES=ESMS
+Setup_LoadView=ESMS
+System_QFE_AD_Elevation=236
+Setup_ScreenLat=ESMS
+[ESMS_APP]
+Airspace_C_Flag=EKCH,EKRN,ESDF,ESGG,ESGJ,ESGP,ESGT,ESIA,ESIB,ESMK,ESMQ,ESMS,ESMT,ESMX,ESOE,ESOK,ESSV,ESTA,ESTL
+Divergence_RAM=1
+FlightLeg_AutoShow=1
+List_TfcMgmt2_ADES=EKCH
+List_ETWR_ADEP=ESMS,EKCH,EKRN
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW NORTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW SOUTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE CODAN
+Setup_LoadMap=LOA ESMM\RELEASE LINE DISGO
+Setup_LoadMap=LOA ESMM\AREA MALMO CITY
+Window_CARD=1
+[ESMS__APP]
+Airspace_C_Flag=EKCH,EKRN,ESDF,ESGG,ESGJ,ESGP,ESGT,ESIA,ESIB,ESMK,ESMQ,ESMS,ESMT,ESMX,ESOE,ESOK,ESSV,ESTA,ESTL
+Divergence_RAM=1
+FlightLeg_AutoShow=1
+List_TfcMgmt2_ADES=EKCH
+List_ETWR_ADEP=ESMS,EKCH,EKRN
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW NORTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE EDWW SOUTH
+Setup_LoadMap=LOA ESMM\RELEASE LINE CODAN
+Setup_LoadMap=LOA ESMM\RELEASE LINE DISGO
+Setup_LoadMap=LOA ESMM\AREA MALMO CITY
+Window_CARD=1
+[ESMT_]
+Airspace_C_Flag=ESMT
+List_TfcMgmt1_ADES=ESMT
+System_QFE_AD_Elevation=101
+Setup_LoadView=ESMT
+Setup_ScreenLat=ESMT
+[ESMV_]
+Airspace_C_Flag=ESMV
+List_TfcMgmt1_ADES=ESMT
+System_QFE_AD_Elevation=555
+Setup_ScreenLat=57.0
+[ESMX_]
+Airspace_C_Flag=ESMX
+List_TfcMgmt1_ADES=ESMX
+System_QFE_AD_Elevation=610
+Setup_LoadView=ESMX
+Setup_ScreenLat=ESMX
+[ESNJ_]
+Airspace_C_Flag=ESNJ
+List_TfcMgmt1_ADES=ESNJ
+System_QFE_AD_Elevation=901
+Setup_ScreenLat=ESNJ
+[ESNN_]
+Airspace_C_Flag=ESNN
+List_TfcMgmt1_ADES=ESNN
+System_QFE_AD_Elevation=17
+Setup_LoadView=ESNN
+Setup_ScreenLat=62.5
+[ESNO_]
+Airspace_C_Flag=ESNO
+List_TfcMgmt1_ADES=ESNO
+System_QFE_AD_Elevation=354
+Setup_LoadView=ESNO
+Setup_ScreenLat=63.4
+[ESNQ_]
+Airspace_C_Flag=ESNQ
+List_TfcMgmt1_ADES=ESNQ
+System_QFE_AD_Elevation=1509
+Setup_LoadView=ESNQ
+Setup_ScreenLat=ESNQ
+[ESNS_]
+Airspace_C_Flag=ESNS
+List_TfcMgmt1_ADES=ESNS
+System_QFE_AD_Elevation=157
+Setup_LoadView=ESNS
+Setup_ScreenLat=64.6
+[ESNU_]
+Airspace_C_Flag=ESNU
+List_TfcMgmt1_ADES=ESNU
+System_QFE_AD_Elevation=24
+Setup_LoadView=ESNU
+Setup_ScreenLat=63.8
+[ESNX_]
+Airspace_C_Flag=ESNX
+List_TfcMgmt1_ADES=ESNX
+System_QFE_AD_Elevation=1245
+Setup_LoadView=ESNX
+Setup_ScreenLat=ESNX
+[ESNZ_]
+Airspace_C_Flag=ESNZ
+List_TfcMgmt1_ADES=ESNZ
+System_QFE_AD_Elevation=1233
+Setup_LoadView=ESNZ
+Setup_ScreenLat=ESNZ
+[ESOE_]
+Airspace_C_Flag=ESOE
+List_TfcMgmt1_ADES=ESOE
+System_QFE_AD_Elevation=188
+Setup_LoadView=ESOE
+Setup_ScreenLat=ESOE
+[ESOK_]
+Airspace_C_Flag=ESOK
+List_TfcMgmt1_ADES=ESOK
+System_QFE_AD_Elevation=352
+Setup_LoadView=ESOK
+Setup_ScreenLat=ESOK
+[ESOW_]
+Airspace_C_Flag=ESOW,ESSU
+List_TfcMgmt1_ADES=ESOW
+List_ETWR_ADEP=ESOW
+System_QFE_AD_Elevation=21
+Setup_LoadView=ESOW
+Setup_ScreenLat=ESOW
+[ESPA_]
+Airspace_C_Flag=ESPA
+List_TfcMgmt1_ADES=ESPA
+List_ETWR_ADEP=ESPA
+System_QFE_AD_Elevation=65
+Setup_LoadView=ESPA
+Setup_ScreenLat=ESPA
+[ESPE_]
+Airspace_C_Flag=ESPE
+List_TfcMgmt1_ADES=ESPE
+List_ETWR_ADEP=ESPE
+System_QFE_AD_Elevation=597
+Setup_LoadView=ESPE
+Setup_ScreenLat=ESPE
+[ESSA_]
+Airspace_C_Flag=ESSA
+List_TfcMgmt1_ADES=ESSA
+System_QFE_AD_Elevation=137
+Setup_LoadView=ESSA
+Setup_LoadMap=LOA ESOS\SIGTUNA
+Setup_ScreenLat=ESSA
+Window_CPDLC_Setting=1
+WXR_Zoom=6
+WXR_Latitude=59.5
+WXR_Longitude=17.8
+[ESSA_E_APP]
+Airspace_C_Flag=ESCM,ESOW,ESSU,ESSA,ESSB
+List_ETWR_ADEP=ESSA,ESSB,ESCM,ESOW
+List_TfcMgmt2_ADES=ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_E__APP]
+Airspace_C_Flag=ESCM,ESOW,ESSU,ESSA,ESSB
+List_ETWR_ADEP=ESSA,ESSB,ESCM,ESOW
+List_TfcMgmt2_ADES=ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_W_APP]
+Airspace_C_Flag=ESCM,ESOW,ESSU,ESSA,ESSB
+List_ETWR_ADEP=ESSA,ESSB,ESCM,ESOW
+List_TfcMgmt2_ADES=ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_W__APP]
+Airspace_C_Flag=ESCM,ESOW,ESSU,ESSA,ESSB
+List_ETWR_ADEP=ESSA,ESSB,ESCM,ESOW
+List_TfcMgmt2_ADES=ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_A]
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_F]
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_W_DEP]
+List_ETWR_ADEP=ESSA,ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_W__DEP]
+List_ETWR_ADEP=ESSA,ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_E_DEP]
+List_ETWR_ADEP=ESSA,ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSA_E__DEP]
+List_ETWR_ADEP=ESSA,ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Setup_HideMap=NAVIGATION\VFR
+[ESSB_]
+Airspace_C_Flag=ESSB
+List_TfcMgmt1_ADES=ESSB
+System_QFE_AD_Elevation=47
+Setup_LoadView=ESSB
+Setup_ScreenLat=ESSB
+WXR_Zoom=6
+WXR_Latitude=59.5
+WXR_Longitude=17.8
+[ESSB_APP]
+Airspace_C_Flag=ESOW,ESSU,ESSB
+List_ETWR_ADEP=ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Window_CPDLC_Setting=1
+[ESSB__APP]
+Airspace_C_Flag=ESOW,ESSU,ESSB
+List_ETWR_ADEP=ESSB
+Setup_HideMap=TEXT INFO\TMA ALTITUDES
+Window_CPDLC_Setting=1
+[ESSD_]
+Airspace_C_Flag=ESSD
+List_TfcMgmt1_ADES=ESSD
+System_QFE_AD_Elevation=503
+Setup_LoadView=ESSD
+Setup_ScreenLat=ESSD
+[ESSL_]
+Airspace_C_Flag=ESCF,ESSL
+List_TfcMgmt1_ADES=ESSL
+System_QFE_AD_Elevation=172
+Setup_LoadView=ESSL
+Setup_ScreenLat=ESSL
+[ESSP_]
+List_TfcMgmt1_ADES=ESSP
+Setup_LoadView=ESSP
+Setup_ScreenLat=ESSP
+[ESSP_TWR]
+Airspace_C_Flag=ESSP
+System_QFE_AD_Elevation=32
+[ESSP__TWR]
+Airspace_C_Flag=ESSP
+System_QFE_AD_Elevation=32
+[ESSP_APP]
+Airspace_C_Flag=ESCF,ESKN,ESSL,ESSP
+List_ETWR_ADEP=ESCF,ESKN,ESSL,ESSP
+List_TfcMgmt1_ADES=ESKN
+List_TfcMgmt2_ADES=ESCF,ESSL,ESSP
+[ESSP__APP]
+Airspace_C_Flag=ESCF,ESKN,ESSL,ESSP
+List_ETWR_ADEP=ESCF,ESKN,ESSL,ESSP
+List_TfcMgmt1_ADES=ESKN
+List_TfcMgmt2_ADES=ESCF,ESSL,ESSP
+[ESSV_]
+Airspace_C_Flag=ESSV
+List_TfcMgmt1_ADES=ESSV
+List_ETWR_ADEP=ESSV
+System_QFE_AD_Elevation=164
+Setup_LoadView=ESSV
+Setup_ScreenLat=ESSV
+[ESTA_]
+Airspace_C_Flag=ESTA
+List_TfcMgmt1_ADES=ESTA
+List_ETWR_ADEP=ESTA
+System_QFE_AD_Elevation=60
+Setup_LoadView=ESTA
+Setup_ScreenLat=ESTA
+[ESTL_]
+Airspace_C_Flag=ESTL
+List_TfcMgmt1_ADES=ESTL
+List_ETWR_ADEP=ESTL
+System_QFE_AD_Elevation=139
+Setup_LoadView=ESTL
+Setup_ScreenLat=ESTL

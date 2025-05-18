@@ -1,0 +1,919 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:ESCM TMA:
+ARTCC high boundary:ESDF TMA:
+ARTCC high boundary:ESGG TMA:
+ARTCC high boundary:ESGJ TMA:
+ARTCC high boundary:ESIA TMA:
+ARTCC high boundary:ESIB TMA:
+ARTCC high boundary:ESKM TIA:
+ARTCC high boundary:ESKS TMA:
+ARTCC high boundary:ESMK TMA:
+ARTCC high boundary:ESMM TMA:
+ARTCC high boundary:ESMQ TMA:
+ARTCC high boundary:ESMT TMA:
+ARTCC high boundary:ESMX TMA:
+ARTCC high boundary:ESND TIA:
+ARTCC high boundary:ESNG TIA:
+ARTCC high boundary:ESNK TIA:
+ARTCC high boundary:ESNL TIA:
+ARTCC high boundary:ESNN TMA:
+ARTCC high boundary:ESNO TMA:
+ARTCC high boundary:ESNQ TMA:
+ARTCC high boundary:ESNS TMA:
+ARTCC high boundary:ESNU TMA:
+ARTCC high boundary:ESNV TIA:
+ARTCC high boundary:ESNX TMA:
+ARTCC high boundary:ESNZ TMA:
+ARTCC high boundary:ESOE TMA:
+ARTCC high boundary:ESOH TIA:
+ARTCC high boundary:ESOK TMA:
+ARTCC high boundary:ESOS TMA:
+ARTCC high boundary:ESOW TMA:
+ARTCC high boundary:ESPA TMA:
+ARTCC high boundary:ESPE TMA:
+ARTCC high boundary:ESSD TMA:
+ARTCC high boundary:ESSP TMA:
+ARTCC high boundary:ESST TIA:
+ARTCC high boundary:ESSV TMA:
+ARTCC high boundary:ESTA LAHOLM:
+ARTCC high boundary:ESTA TMA:
+ARTCC high boundary:ESTL KLIPPAN:
+ARTCC high boundary:ESTL TMA:
+ARTCC high boundary:ESUP TIA:
+ARTCC high boundary:ESUT TIA:
+ARTCC high boundary:INT TMA:
+ARTCC low boundary:EKCH CTR:
+ARTCC low boundary:ESAA TMA SUBSECTOR:
+ARTCC low boundary:ESCF CTR:
+ARTCC low boundary:ESCM CTR:
+ARTCC low boundary:ESDF CTR:
+ARTCC low boundary:ESGG CTR:
+ARTCC low boundary:ESGJ CTR:
+ARTCC low boundary:ESGP CTR:
+ARTCC low boundary:ESGT CTR:
+ARTCC low boundary:ESIA CTR:
+ARTCC low boundary:ESIB CTR:
+ARTCC low boundary:ESKM TIZ:
+ARTCC low boundary:ESKN CTR:
+ARTCC low boundary:ESKS CTR:
+ARTCC low boundary:ESMK CTR:
+ARTCC low boundary:ESMQ CTR:
+ARTCC low boundary:ESMS CTR:
+ARTCC low boundary:ESMT CTR:
+ARTCC low boundary:ESMX CTR:
+ARTCC low boundary:ESND TIZ:
+ARTCC low boundary:ESNG TIZ:
+ARTCC low boundary:ESNK TIZ:
+ARTCC low boundary:ESNL TIZ:
+ARTCC low boundary:ESNN CTR:
+ARTCC low boundary:ESNO CTR:
+ARTCC low boundary:ESNQ CTR:
+ARTCC low boundary:ESNS CTR:
+ARTCC low boundary:ESNU CTR:
+ARTCC low boundary:ESNV TIZ:
+ARTCC low boundary:ESNX CTR:
+ARTCC low boundary:ESNZ CTR:
+ARTCC low boundary:ESOE CTR:
+ARTCC low boundary:ESOH TIZ:
+ARTCC low boundary:ESOK CTR:
+ARTCC low boundary:ESOW CTR:
+ARTCC low boundary:ESPA CTR:
+ARTCC low boundary:ESPE CTR:
+ARTCC low boundary:ESSA CTR:
+ARTCC low boundary:ESSB CTR:
+ARTCC low boundary:ESSD CTR:
+ARTCC low boundary:ESSL CTR:
+ARTCC low boundary:ESSP CTR:
+ARTCC low boundary:ESST TIZ:
+ARTCC low boundary:ESSU TIZ:
+ARTCC low boundary:ESSV CTR:
+ARTCC low boundary:ESTA CTR:
+ARTCC low boundary:ESTL CTR:
+ARTCC low boundary:ESUP TIZ:
+ARTCC low boundary:ESUT TIZ:
+Fixes:ABALA:symbol
+Fixes:ABAMA:symbol
+Fixes:ABAXI:symbol
+Fixes:ABEGI:symbol
+Fixes:ABVUR:symbol
+Fixes:ADKAT:symbol
+Fixes:ADOVI:symbol
+Fixes:ADVIS:symbol
+Fixes:ADVOP:symbol
+Fixes:AGDIS:symbol
+Fixes:AGMOL:symbol
+Fixes:ALAMI:symbol
+Fixes:ALOLA:symbol
+Fixes:AMPAD:symbol
+Fixes:AMROR:symbol
+Fixes:AMSUR:symbol
+Fixes:AMTOT:symbol
+Fixes:APTUG:symbol
+Fixes:APZER:symbol
+Fixes:ARGIB:symbol
+Fixes:ARMOD:symbol
+Fixes:ARPIV:symbol
+Fixes:ARQUS:symbol
+Fixes:ARTAB:symbol
+Fixes:ASKEB:symbol
+Fixes:ASTOS:symbol
+Fixes:ASVOB:symbol
+Fixes:ATLEM:symbol
+Fixes:ATRIB:symbol
+Fixes:BABAP:symbol
+Fixes:BABEN:symbol
+Fixes:BABOT:symbol
+Fixes:BAGLO:symbol
+Fixes:BAKLA:symbol
+Fixes:BAKLI:symbol
+Fixes:BALEX:symbol
+Fixes:BALNU:symbol
+Fixes:BALOX:symbol
+Fixes:BALVI:symbol
+Fixes:BAMAX:symbol
+Fixes:BAMIP:symbol
+Fixes:BANUB:symbol
+Fixes:BASLO:symbol
+Fixes:BATOV:symbol
+Fixes:BEDLA:symbol
+Fixes:BEDOS:symbol
+Fixes:BEGDO:symbol
+Fixes:BEKAP:symbol
+Fixes:BELFE:symbol
+Fixes:BENGI:symbol
+Fixes:BENKA:symbol
+Fixes:BESLA:symbol
+Fixes:BEXAM:symbol
+Fixes:BEXUL:symbol
+Fixes:BIKRU:symbol
+Fixes:BILRA:symbol
+Fixes:BODRI:symbol
+Fixes:BOMGU:symbol
+Fixes:BUGAX:symbol
+Fixes:BYGDE:symbol
+Fixes:CF531:symbol
+Fixes:CF721:symbol
+Fixes:CM501:symbol
+Fixes:CM506:symbol
+Fixes:CM701:symbol
+Fixes:CM706:symbol
+Fixes:DEDIT:symbol
+Fixes:DEGAL:symbol
+Fixes:DEGAV:symbol
+Fixes:DEGED:symbol
+Fixes:DEKIK:symbol
+Fixes:DEMUS:symbol
+Fixes:DEPEX:symbol
+Fixes:DEREX:symbol
+Fixes:DETNA:symbol
+Fixes:DETNI:symbol
+Fixes:DETSO:symbol
+Fixes:DETUS:symbol
+Fixes:DEVEL:symbol
+Fixes:DEVNI:symbol
+Fixes:DEXOP:symbol
+Fixes:DF531:symbol
+Fixes:DF532:symbol
+Fixes:DF550:symbol
+Fixes:DF711:symbol
+Fixes:DF712:symbol
+Fixes:DF850:symbol
+Fixes:DIBVA:symbol
+Fixes:DIGLO:symbol
+Fixes:DIGOX:symbol
+Fixes:DIKVI:symbol
+Fixes:DIMGA:symbol
+Fixes:DINVO:symbol
+Fixes:DIPEB:symbol
+Fixes:DIRAV:symbol
+Fixes:DISGO:symbol
+Fixes:DISRU:symbol
+Fixes:DITVA:symbol
+Fixes:DIXOT:symbol
+Fixes:DODAM:symbol
+Fixes:DOFOK:symbol
+Fixes:DOPEM:symbol
+Fixes:DOPUD:symbol
+Fixes:DOSIV:symbol
+Fixes:EBURI:symbol
+Fixes:EDAXA:symbol
+Fixes:EGAGO:symbol
+Fixes:EKLOV:symbol
+Fixes:EKMIK:symbol
+Fixes:EKMUN:symbol
+Fixes:EKNAG:symbol
+Fixes:EKRAL:symbol
+Fixes:EKRON:symbol
+Fixes:ELBOG:symbol
+Fixes:ELBUX:symbol
+Fixes:ELKOM:symbol
+Fixes:ELPAX:symbol
+Fixes:ELPOL:symbol
+Fixes:ELRID:symbol
+Fixes:ELTOK:symbol
+Fixes:ELVAV:symbol
+Fixes:ELVIX:symbol
+Fixes:EMDOL:symbol
+Fixes:EMKAS:symbol
+Fixes:EMLET:symbol
+Fixes:ENOVI:symbol
+Fixes:ENOXI:symbol
+Fixes:EPITA:symbol
+Fixes:EPOXO:symbol
+Fixes:ERLUM:symbol
+Fixes:ERNOV:symbol
+Fixes:ERPUK:symbol
+Fixes:ESEBA:symbol
+Fixes:ESJAH:symbol
+Fixes:ESULO:symbol
+Fixes:ETIPU:symbol
+Fixes:ETOMI:symbol
+Fixes:ETPIG:symbol
+Fixes:ETRUS:symbol
+Fixes:ETSON:symbol
+Fixes:EVBAS:symbol
+Fixes:EVLAN:symbol
+Fixes:EVONA:symbol
+Fixes:EXENA:symbol
+Fixes:EXTAR:symbol
+Fixes:FEMPO:symbol
+Fixes:FOXSA:symbol
+Fixes:GADDE:symbol
+Fixes:GAJPA:symbol
+Fixes:GALPI:symbol
+Fixes:GATVI:symbol
+Fixes:GELDA:symbol
+Fixes:GELMA:symbol
+Fixes:GESRI:symbol
+Fixes:GETPA:symbol
+Fixes:GEVRU:symbol
+Fixes:GIBDO:symbol
+Fixes:GIGOD:symbol
+Fixes:GIKAV:symbol
+Fixes:GILEN:symbol
+Fixes:GIMLO:symbol
+Fixes:GIROR:symbol
+Fixes:GISON:symbol
+Fixes:GIXAK:symbol
+Fixes:GIXUN:symbol
+Fixes:GJ420:symbol
+Fixes:GJ542:symbol
+Fixes:GJ570:symbol
+Fixes:GJ721:symbol
+Fixes:GJ742:symbol
+Fixes:GJ870:symbol
+Fixes:GODVU:symbol
+Fixes:GOKEP:symbol
+Fixes:GOKPU:symbol
+Fixes:GOLAV:symbol
+Fixes:GOLMI:symbol
+Fixes:GOPNI:symbol
+Fixes:GORAX:symbol
+Fixes:GORPI:symbol
+Fixes:GOSDI:symbol
+Fixes:GOSOT:symbol
+Fixes:GOTAL:symbol
+Fixes:GP401:symbol
+Fixes:GP402:symbol
+Fixes:GP411:symbol
+Fixes:GP412:symbol
+Fixes:GP850:symbol
+Fixes:GP860:symbol
+Fixes:GT630:symbol
+Fixes:GT640:symbol
+Fixes:GT650:symbol
+Fixes:GT900:symbol
+Fixes:GT905:symbol
+Fixes:GT910:symbol
+Fixes:GURLI:symbol
+Fixes:HANSA:symbol
+Fixes:HAPZI:symbol
+Fixes:HEWAX:symbol
+Fixes:HUMBE:symbol
+Fixes:IB531:symbol
+Fixes:IB532:symbol
+Fixes:IB533:symbol
+Fixes:IB535:symbol
+Fixes:IB600:symbol
+Fixes:IB601:symbol
+Fixes:IB721:symbol
+Fixes:IB722:symbol
+Fixes:IB723:symbol
+Fixes:IB860:symbol
+Fixes:IBEBI:symbol
+Fixes:IBGAX:symbol
+Fixes:IBNIC:symbol
+Fixes:IBREK:symbol
+Fixes:IBTOX:symbol
+Fixes:IDEXO:symbol
+Fixes:IDMUK:symbol
+Fixes:IDPAL:symbol
+Fixes:INBES:symbol
+Fixes:INDAK:symbol
+Fixes:INGIS:symbol
+Fixes:INRER:symbol
+Fixes:INREX:symbol
+Fixes:INSUK:symbol
+Fixes:INVOL:symbol
+Fixes:IRGAL:symbol
+Fixes:ITFAX:symbol
+Fixes:ITVAV:symbol
+Fixes:IVGOR:symbol
+Fixes:IXIBI:symbol
+Fixes:IXOLA:symbol
+Fixes:JANDA:symbol
+Fixes:JOMFA:symbol
+Fixes:KEKOV:symbol
+Fixes:KELAS:symbol
+Fixes:KELIN:symbol
+Fixes:KELJE:symbol
+Fixes:KEMAX:symbol
+Fixes:KETEL:symbol
+Fixes:KINTI:symbol
+Fixes:KM500:symbol
+Fixes:KM550:symbol
+Fixes:KM551:symbol
+Fixes:KM700:symbol
+Fixes:KM850:symbol
+Fixes:KM851:symbol
+Fixes:KM852:symbol
+Fixes:KN501:symbol
+Fixes:KN801:symbol
+Fixes:KOGAV:symbol
+Fixes:KOKAK:symbol
+Fixes:KOLJA:symbol
+Fixes:KOLOB:symbol
+Fixes:KONOX:symbol
+Fixes:KOPIM:symbol
+Fixes:KORET:symbol
+Fixes:KOSKA:symbol
+Fixes:KOTAM:symbol
+Fixes:KOTOS:symbol
+Fixes:KOXIM:symbol
+Fixes:KS601:symbol
+Fixes:KS602:symbol
+Fixes:KS603:symbol
+Fixes:KS604:symbol
+Fixes:KS851:symbol
+Fixes:KS852:symbol
+Fixes:KS853:symbol
+Fixes:KS854:symbol
+Fixes:KULUD:symbol
+Fixes:LABAN:symbol
+Fixes:LAGIS:symbol
+Fixes:LAJTA:symbol
+Fixes:LALIL:symbol
+Fixes:LAMOS:symbol
+Fixes:LAMPI:symbol
+Fixes:LAPIX:symbol
+Fixes:LAPLA:symbol
+Fixes:LAPSI:symbol
+Fixes:LARMA:symbol
+Fixes:LASGI:symbol
+Fixes:LASLI:symbol
+Fixes:LATKU:symbol
+Fixes:LATMI:symbol
+Fixes:LATVI:symbol
+Fixes:LEBDA:symbol
+Fixes:LEBTU:symbol
+Fixes:LEGPO:symbol
+Fixes:LENGO:symbol
+Fixes:LENSO:symbol
+Fixes:LIBSI:symbol
+Fixes:LIDNA:symbol
+Fixes:LILBI:symbol
+Fixes:LINSA:symbol
+Fixes:LIVLI:symbol
+Fixes:LOBBI:symbol
+Fixes:LOFER:symbol
+Fixes:LOMLA:symbol
+Fixes:LUKAX:symbol
+Fixes:LUKIG:symbol
+Fixes:LUPET:symbol
+Fixes:LURAR:symbol
+Fixes:LUSID:symbol
+Fixes:LUVIX:symbol
+Fixes:MADAG:symbol
+Fixes:MAKUR:symbol
+Fixes:MALIV:symbol
+Fixes:MAMEX:symbol
+Fixes:MAPEV:symbol
+Fixes:MASEV:symbol
+Fixes:MATEK:symbol
+Fixes:MAVIP:symbol
+Fixes:MAXIV:symbol
+Fixes:MAXUM:symbol
+Fixes:MIDIC:symbol
+Fixes:MIKNA:symbol
+Fixes:MILNU:symbol
+Fixes:MIMKI:symbol
+Fixes:MISBI:symbol
+Fixes:MISMA:symbol
+Fixes:MISMO:symbol
+Fixes:MISVI:symbol
+Fixes:MK510:symbol
+Fixes:MK520:symbol
+Fixes:MK530:symbol
+Fixes:MK560:symbol
+Fixes:MK710:symbol
+Fixes:MK720:symbol
+Fixes:MK730:symbol
+Fixes:MK840:symbol
+Fixes:MOGLU:symbol
+Fixes:MOKMO:symbol
+Fixes:MOKNI:symbol
+Fixes:MORBY:symbol
+Fixes:MOSAT:symbol
+Fixes:MOSIN:symbol
+Fixes:MOTAD:symbol
+Fixes:MOTIG:symbol
+Fixes:MOVIS:symbol
+Fixes:MOXAM:symbol
+Fixes:MQ850:symbol
+Fixes:MQ851:symbol
+Fixes:MQ852:symbol
+Fixes:MQ853:symbol
+Fixes:MT500:symbol
+Fixes:MT502:symbol
+Fixes:MT503:symbol
+Fixes:MT552:symbol
+Fixes:MT800:symbol
+Fixes:MT803:symbol
+Fixes:MT851:symbol
+Fixes:MX531:symbol
+Fixes:MX532:symbol
+Fixes:MX565:symbol
+Fixes:MX751:symbol
+Fixes:MX752:symbol
+Fixes:MX850:symbol
+Fixes:NAFFI:symbol
+Fixes:NAROL:symbol
+Fixes:NATVI:symbol
+Fixes:ND500:symbol
+Fixes:ND503:symbol
+Fixes:ND504:symbol
+Fixes:ND550:symbol
+Fixes:ND700:symbol
+Fixes:ND703:symbol
+Fixes:ND704:symbol
+Fixes:ND800:symbol
+Fixes:ND850:symbol
+Fixes:NEBET:symbol
+Fixes:NEBSI:symbol
+Fixes:NEBUR:symbol
+Fixes:NEFYN:symbol
+Fixes:NEGAS:symbol
+Fixes:NEGIL:symbol
+Fixes:NEKET:symbol
+Fixes:NEKLA:symbol
+Fixes:NEKPO:symbol
+Fixes:NEMBA:symbol
+Fixes:NEPVA:symbol
+Fixes:NEREN:symbol
+Fixes:NETAV:symbol
+Fixes:NEWKI:symbol
+Fixes:NEXIL:symbol
+Fixes:NEXOV:symbol
+Fixes:NG551:symbol
+Fixes:NG552:symbol
+Fixes:NG553:symbol
+Fixes:NG850:symbol
+Fixes:NG853:symbol
+Fixes:NG854:symbol
+Fixes:NG855:symbol
+Fixes:NIBNO:symbol
+Fixes:NIDPO:symbol
+Fixes:NIKEG:symbol
+Fixes:NILEN:symbol
+Fixes:NILUG:symbol
+Fixes:NIMSO:symbol
+Fixes:NINTA:symbol
+Fixes:NISGO:symbol
+Fixes:NISIX:symbol
+Fixes:NISLO:symbol
+Fixes:NITMU:symbol
+Fixes:NK500:symbol
+Fixes:NK551:symbol
+Fixes:NK552:symbol
+Fixes:NK553:symbol
+Fixes:NK700:symbol
+Fixes:NK851:symbol
+Fixes:NK852:symbol
+Fixes:NK853:symbol
+Fixes:NL551:symbol
+Fixes:NL552:symbol
+Fixes:NL553:symbol
+Fixes:NL554:symbol
+Fixes:NL851:symbol
+Fixes:NL852:symbol
+Fixes:NL853:symbol
+Fixes:NL854:symbol
+Fixes:NN551:symbol
+Fixes:NN553:symbol
+Fixes:NN700:symbol
+Fixes:NN850:symbol
+Fixes:NN853:symbol
+Fixes:NN854:symbol
+Fixes:NO577:symbol
+Fixes:NO578:symbol
+Fixes:NO579:symbol
+Fixes:NO580:symbol
+Fixes:NO851:symbol
+Fixes:NO852:symbol
+Fixes:NO853:symbol
+Fixes:NO854:symbol
+Fixes:NOGBO:symbol
+Fixes:NOLGI:symbol
+Fixes:NONKI:symbol
+Fixes:NORVI:symbol
+Fixes:NOSLI:symbol
+Fixes:NOVPO:symbol
+Fixes:NOVRI:symbol
+Fixes:NQ528:symbol
+Fixes:NQ529:symbol
+Fixes:NQ530:symbol
+Fixes:NQ700:symbol
+Fixes:NQ703:symbol
+Fixes:NS850:symbol
+Fixes:NU550:symbol
+Fixes:NU850:symbol
+Fixes:NUGPU:symbol
+Fixes:NUGTA:symbol
+Fixes:NUPVI:symbol
+Fixes:NV500:symbol
+Fixes:NV551:symbol
+Fixes:NV552:symbol
+Fixes:NV553:symbol
+Fixes:NV700:symbol
+Fixes:NV851:symbol
+Fixes:NV852:symbol
+Fixes:NV853:symbol
+Fixes:NX551:symbol
+Fixes:NX552:symbol
+Fixes:NX553:symbol
+Fixes:NX554:symbol
+Fixes:NX851:symbol
+Fixes:NX852:symbol
+Fixes:NX853:symbol
+Fixes:NX854:symbol
+Fixes:NZ623:symbol
+Fixes:NZ624:symbol
+Fixes:NZ825:symbol
+Fixes:NZ855:symbol
+Fixes:NZ856:symbol
+Fixes:NZ857:symbol
+Fixes:ODARU:symbol
+Fixes:ODHAF:symbol
+Fixes:ODIBI:symbol
+Fixes:ODJAX:symbol
+Fixes:ODMEI:symbol
+Fixes:ODSIM:symbol
+Fixes:OE405:symbol
+Fixes:OE410:symbol
+Fixes:OE415:symbol
+Fixes:OE595:symbol
+Fixes:OE710:symbol
+Fixes:OE715:symbol
+Fixes:OE725:symbol
+Fixes:OE855:symbol
+Fixes:OGELO:symbol
+Fixes:OGIRO:symbol
+Fixes:OGLAV:symbol
+Fixes:OGLOB:symbol
+Fixes:OGRIN:symbol
+Fixes:OH550:symbol
+Fixes:OK521:symbol
+Fixes:OK522:symbol
+Fixes:OK523:symbol
+Fixes:OK711:symbol
+Fixes:OK712:symbol
+Fixes:OK713:symbol
+Fixes:OKAGA:symbol
+Fixes:OKAKI:symbol
+Fixes:OKSAT:symbol
+Fixes:OLANU:symbol
+Fixes:OLGOL:symbol
+Fixes:OLGUV:symbol
+Fixes:OSDOK:symbol
+Fixes:OSKIR:symbol
+Fixes:OSKOK:symbol
+Fixes:OSLAV:symbol
+Fixes:OSRUK:symbol
+Fixes:OSTAX:symbol
+Fixes:OSVEM:symbol
+Fixes:OTVEB:symbol
+Fixes:OVDAL:symbol
+Fixes:OW540:symbol
+Fixes:OW610:symbol
+Fixes:OW840:symbol
+Fixes:OXJAG:symbol
+Fixes:OXOTI:symbol
+Fixes:PA570:symbol
+Fixes:PA571:symbol
+Fixes:PA590:symbol
+Fixes:PA920:symbol
+Fixes:PA921:symbol
+Fixes:PA922:symbol
+Fixes:PASCA:symbol
+Fixes:PELAB:symbol
+Fixes:PELIT:symbol
+Fixes:PELOX:symbol
+Fixes:PELUP:symbol
+Fixes:PEMAB:symbol
+Fixes:PENAX:symbol
+Fixes:PENOR:symbol
+Fixes:PERAX:symbol
+Fixes:PERKE:symbol
+Fixes:PETEV:symbol
+Fixes:POBEL:symbol
+Fixes:POKAS:symbol
+Fixes:POKEN:symbol
+Fixes:PRAMA:symbol
+Fixes:PUMJI:symbol
+Fixes:RASEL:symbol
+Fixes:RASEN:symbol
+Fixes:RASMU:symbol
+Fixes:REGMA:symbol
+Fixes:REKMI:symbol
+Fixes:REKMO:symbol
+Fixes:REMSA:symbol
+Fixes:REPKU:symbol
+Fixes:RESNA:symbol
+Fixes:RETGU:symbol
+Fixes:RIKPA:symbol
+Fixes:RIKUM:symbol
+Fixes:RILUG:symbol
+Fixes:RISEM:symbol
+Fixes:RISMA:symbol
+Fixes:RIVDI:symbol
+Fixes:RIXEM:symbol
+Fixes:ROBOV:symbol
+Fixes:ROGED:symbol
+Fixes:ROGMI:symbol
+Fixes:ROKAM:symbol
+Fixes:ROSMO:symbol
+Fixes:ROVPA:symbol
+Fixes:ROXEN:symbol
+Fixes:ROXUB:symbol
+Fixes:RUGIX:symbol
+Fixes:RUMAR:symbol
+Fixes:RUNGA:symbol
+Fixes:RUWER:symbol
+Fixes:SABAK:symbol
+Fixes:SALLO:symbol
+Fixes:SD551:symbol
+Fixes:SD553:symbol
+Fixes:SD554:symbol
+Fixes:SD555:symbol
+Fixes:SD852:symbol
+Fixes:SD853:symbol
+Fixes:SD854:symbol
+Fixes:SIMEG:symbol
+Fixes:SINNU:symbol
+Fixes:SIPRI:symbol
+Fixes:SIPSI:symbol
+Fixes:SIRVA:symbol
+Fixes:SL540:symbol
+Fixes:SL601:symbol
+Fixes:SL602:symbol
+Fixes:SL603:symbol
+Fixes:SL840:symbol
+Fixes:SL910:symbol
+Fixes:SL920:symbol
+Fixes:SL930:symbol
+Fixes:SOGJU:symbol
+Fixes:SOLKA:symbol
+Fixes:SONIN:symbol
+Fixes:SONIX:symbol
+Fixes:SONPA:symbol
+Fixes:SOPAK:symbol
+Fixes:SOPLI:symbol
+Fixes:SOROM:symbol
+Fixes:SOVAS:symbol
+Fixes:SOVAX:symbol
+Fixes:SOVEV:symbol
+Fixes:SP561:symbol
+Fixes:SP562:symbol
+Fixes:SP563:symbol
+Fixes:SP850:symbol
+Fixes:ST551:symbol
+Fixes:ST850:symbol
+Fixes:SU500:symbol
+Fixes:SU551:symbol
+Fixes:SU552:symbol
+Fixes:SU553:symbol
+Fixes:SU700:symbol
+Fixes:SU851:symbol
+Fixes:SU852:symbol
+Fixes:SU853:symbol
+Fixes:SULAX:symbol
+Fixes:SUTEV:symbol
+Fixes:SUVAR:symbol
+Fixes:SUXEM:symbol
+Fixes:SV870:symbol
+Fixes:TA605:symbol
+Fixes:TABUT:symbol
+Fixes:TAKOT:symbol
+Fixes:TEKVA:symbol
+Fixes:TELMO:symbol
+Fixes:TEMLI:symbol
+Fixes:TERPA:symbol
+Fixes:TESDI:symbol
+Fixes:TESPO:symbol
+Fixes:TESVI:symbol
+Fixes:TIDVU:symbol
+Fixes:TIGBA:symbol
+Fixes:TILAV:symbol
+Fixes:TILSA:symbol
+Fixes:TIMOB:symbol
+Fixes:TINDO:symbol
+Fixes:TINKA:symbol
+Fixes:TIPEL:symbol
+Fixes:TIPIX:symbol
+Fixes:TIXES:symbol
+Fixes:TIXOR:symbol
+Fixes:TL551:symbol
+Fixes:TL553:symbol
+Fixes:TL554:symbol
+Fixes:TL901:symbol
+Fixes:TL902:symbol
+Fixes:TL903:symbol
+Fixes:TL904:symbol
+Fixes:TOGMI:symbol
+Fixes:TOKSI:symbol
+Fixes:TOMBU:symbol
+Fixes:TOMVI:symbol
+Fixes:TONSA:symbol
+Fixes:TOPLA:symbol
+Fixes:TORVA:symbol
+Fixes:TOVRI:symbol
+Fixes:TRIMO:symbol
+Fixes:TUDGI:symbol
+Fixes:TUMGU:symbol
+Fixes:TURAS:symbol
+Fixes:TUSNI:symbol
+Fixes:TUVIX:symbol
+Fixes:TUVLU:symbol
+Fixes:ULGOT:symbol
+Fixes:ULRED:symbol
+Fixes:ULTEX:symbol
+Fixes:ULTIS:symbol
+Fixes:UMIXA:symbol
+Fixes:UMLAX:symbol
+Fixes:UMSAK:symbol
+Fixes:UMSET:symbol
+Fixes:UMSOM:symbol
+Fixes:UMTON:symbol
+Fixes:UNGAV:symbol
+Fixes:UNKAS:symbol
+Fixes:UNTOB:symbol
+Fixes:UP551:symbol
+Fixes:UP552:symbol
+Fixes:UP851:symbol
+Fixes:UP852:symbol
+Fixes:UP853:symbol
+Fixes:UP854:symbol
+Fixes:UPEVA:symbol
+Fixes:UPLAX:symbol
+Fixes:USAXO:symbol
+Fixes:USIKI:symbol
+Fixes:USLOM:symbol
+Fixes:UT550:symbol
+Fixes:UT551:symbol
+Fixes:UT850:symbol
+Fixes:UVTUK:symbol
+Fixes:VADIN:symbol
+Fixes:VADRU:symbol
+Fixes:VAGAS:symbol
+Fixes:VAKTA:symbol
+Fixes:VALAK:symbol
+Fixes:VAPUB:symbol
+Fixes:VATEX:symbol
+Fixes:VAXOX:symbol
+Fixes:VEDAR:symbol
+Fixes:VEDEN:symbol
+Fixes:VENDA:symbol
+Fixes:VENOM:symbol
+Fixes:VEPAX:symbol
+Fixes:VEPIP:symbol
+Fixes:VERAG:symbol
+Fixes:VESER:symbol
+Fixes:VIBAR:symbol
+Fixes:VIBUL:symbol
+Fixes:WAKZU:symbol
+Fixes:WAZZO:symbol
+Fixes:WUPJA:symbol
+Fixes:XEBIB:symbol
+Fixes:XELOL:symbol
+Fixes:XELVI:symbol
+Fixes:XENBU:symbol
+Fixes:XENTA:symbol
+Fixes:XIBTI:symbol
+Fixes:XIDMI:symbol
+Fixes:XILAN:symbol
+Fixes:XIRTO:symbol
+Fixes:XONTU:symbol
+Fixes:XOTBU:symbol
+Fixes:XUMBI:symbol
+Fixes:ZIPCO:symbol
+Geo:ESAA ACC LOW LEVEL:
+Geo:ESAA Landmark COAST:
+Geo:ESAA Landmark ISLANDS:
+Geo:ESAA Landmark LAKES:
+NDBs:AB:symbol
+NDBs:AH:symbol
+NDBs:AN:symbol
+NDBs:AS:symbol
+NDBs:BL:symbol
+NDBs:DD:symbol
+NDBs:DJ:symbol
+NDBs:DK:symbol
+NDBs:EN:symbol
+NDBs:ERK:symbol
+NDBs:FM:symbol
+NDBs:HT:symbol
+NDBs:JX:symbol
+NDBs:KD:symbol
+NDBs:KG:symbol
+NDBs:L:symbol
+NDBs:LB:symbol
+NDBs:LCF:symbol
+NDBs:LE:symbol
+NDBs:LG:symbol
+NDBs:LM:symbol
+NDBs:LNA:symbol
+NDBs:LT:symbol
+NDBs:LUE:symbol
+NDBs:LX:symbol
+NDBs:MF:symbol
+NDBs:NKS:symbol
+NDBs:NM:symbol
+NDBs:NUT:symbol
+NDBs:NV:symbol
+NDBs:NW:symbol
+NDBs:OA:symbol
+NDBs:OD:symbol
+NDBs:OEM:symbol
+NDBs:OG:symbol
+NDBs:OJ:symbol
+NDBs:OL:symbol
+NDBs:ON:symbol
+NDBs:OO:symbol
+NDBs:OP:symbol
+NDBs:OY:symbol
+NDBs:PAJ:symbol
+NDBs:PEO:symbol
+NDBs:PG:symbol
+NDBs:RB:symbol
+NDBs:RD:symbol
+NDBs:SG:symbol
+NDBs:SKS:symbol
+NDBs:SM:symbol
+NDBs:SUT:symbol
+NDBs:TG:symbol
+NDBs:TH:symbol
+NDBs:TY:symbol
+NDBs:UP:symbol
+NDBs:VX:symbol
+NDBs:WU:symbol
+VORs:ARL:symbol
+VORs:ARS:symbol
+VORs:BOR:symbol
+VORs:HMR:symbol
+VORs:JON:symbol
+VORs:KAL:symbol
+VORs:KRA:symbol
+VORs:KSD:symbol
+VORs:LAV:symbol
+VORs:NAT:symbol
+VORs:OSK:symbol
+VORs:OSS:symbol
+VORs:ROE:symbol
+VORs:SKA:symbol
+VORs:SLU:symbol
+VORs:SUM:symbol
+VORs:SUN:symbol
+VORs:SUP:symbol
+VORs:TEB:symbol
+VORs:TRS:symbol
+VORs:UME:symbol
+VORs:VSB:symbol
+VORs:VSN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky ES
+WINDOWAREA:55.235127:-5.659218:66.144788:36.277649

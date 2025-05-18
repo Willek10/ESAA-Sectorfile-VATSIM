@@ -1,0 +1,51 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNN RWY\16:freetext
+Free Text:ESNN RWY\34:freetext
+Free Text:ESNN STAND\11:freetext
+Free Text:ESNN STAND\12:freetext
+Free Text:ESNN STAND\13:freetext
+Free Text:ESNN STAND\14:freetext
+Free Text:ESNN STAND\15:freetext
+Free Text:ESNN STAND\16:freetext
+Free Text:ESNN STAND\2:freetext
+Free Text:ESNN STAND\22:freetext
+Free Text:ESNN STAND\23:freetext
+Free Text:ESNN STAND\24:freetext
+Free Text:ESNN STAND\25:freetext
+Free Text:ESNN STAND\3:freetext
+Free Text:ESNN STAND\4:freetext
+Free Text:ESNN STAND\5:freetext
+Free Text:ESNN STAND\6:freetext
+Free Text:ESNN STAND\Aeroclub:freetext
+Free Text:ESNN STAND\APN M:freetext
+Free Text:ESNN STAND\APN N:freetext
+Free Text:ESNN STAND\APN S:freetext
+Free Text:ESNN STAND\DHL:freetext
+Free Text:ESNN STAND\Terminal:freetext
+Free Text:ESNN TAXIWAY\A:freetext
+Free Text:ESNN TAXIWAY\B:freetext
+Free Text:ESNN TAXIWAY\C:freetext
+Free Text:ESNN TAXIWAY\D:freetext
+Geo:ESNN Groundlayout:
+Regions:ESNN GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:289.78000
+TAGFAMILY:GRplugin
+WINDOWAREA:62.518879:17.420006:62.532720:17.466827
+PLUGIN:Ground Radar plugin:GroundMode:ESNN
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

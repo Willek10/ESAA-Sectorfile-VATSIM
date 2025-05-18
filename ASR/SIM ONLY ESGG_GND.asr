@@ -1,0 +1,90 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESGG HOLDING POINT\B:freetext
+Free Text:ESGG HOLDING POINT\C:freetext
+Free Text:ESGG HOLDING POINT\D:freetext
+Free Text:ESGG HOLDING POINT\E:freetext
+Free Text:ESGG HOLDING POINT\F:freetext
+Free Text:ESGG HOLDING POINT\Y:freetext
+Free Text:ESGG STAND\01:freetext
+Free Text:ESGG STAND\02:freetext
+Free Text:ESGG STAND\03:freetext
+Free Text:ESGG STAND\05:freetext
+Free Text:ESGG STAND\05A:freetext
+Free Text:ESGG STAND\06:freetext
+Free Text:ESGG STAND\07:freetext
+Free Text:ESGG STAND\07A:freetext
+Free Text:ESGG STAND\08:freetext
+Free Text:ESGG STAND\09:freetext
+Free Text:ESGG STAND\10:freetext
+Free Text:ESGG STAND\11:freetext
+Free Text:ESGG STAND\12:freetext
+Free Text:ESGG STAND\13:freetext
+Free Text:ESGG STAND\14:freetext
+Free Text:ESGG STAND\15:freetext
+Free Text:ESGG STAND\16:freetext
+Free Text:ESGG STAND\17:freetext
+Free Text:ESGG STAND\19:freetext
+Free Text:ESGG STAND\20:freetext
+Free Text:ESGG STAND\21:freetext
+Free Text:ESGG STAND\22:freetext
+Free Text:ESGG STAND\22A:freetext
+Free Text:ESGG STAND\22B:freetext
+Free Text:ESGG STAND\23:freetext
+Free Text:ESGG STAND\23A:freetext
+Free Text:ESGG STAND\23B:freetext
+Free Text:ESGG STAND\30:freetext
+Free Text:ESGG STAND\32:freetext
+Free Text:ESGG STAND\34:freetext
+Free Text:ESGG STAND\36:freetext
+Free Text:ESGG STAND\38:freetext
+Free Text:ESGG STAND\40:freetext
+Free Text:ESGG STAND\41:freetext
+Free Text:ESGG STAND\41A:freetext
+Free Text:ESGG STAND\42:freetext
+Free Text:ESGG STAND\43:freetext
+Free Text:ESGG STAND\44:freetext
+Free Text:ESGG STAND\46:freetext
+Free Text:ESGG STAND\48:freetext
+Free Text:ESGG STAND\50:freetext
+Free Text:ESGG STAND\52:freetext
+Free Text:ESGG STAND\54:freetext
+Free Text:ESGG STAND\56:freetext
+Free Text:ESGG STAND\58:freetext
+Free Text:ESGG STAND\60:freetext
+Free Text:ESGG STAND\62:freetext
+Free Text:ESGG STAND\68:freetext
+Free Text:ESGG STAND\70:freetext
+Free Text:ESGG STAND\72:freetext
+Free Text:ESGG STAND\74:freetext
+Free Text:ESGG STAND\76:freetext
+Free Text:ESGG STAND\78:freetext
+Free Text:ESGG TAXIWAY\A:freetext
+Free Text:ESGG TAXIWAY\F:freetext
+Free Text:ESGG TAXIWAY\G:freetext
+Free Text:ESGG TAXIWAY\H:freetext
+Free Text:ESGG TAXIWAY\J:freetext
+Free Text:ESGG TAXIWAY\K:freetext
+Free Text:ESGG TAXIWAY\L:freetext
+Free Text:ESGG TAXIWAY\Y:freetext
+Free Text:ESGG TAXIWAY\Z:freetext
+Geo:ESGG Groundlayout:
+Regions:ESGG GROUND:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:64.04000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:57.652945:12.246125:57.672888:12.320364
+PLUGIN:TopSky plugin:HideMapData:ACC

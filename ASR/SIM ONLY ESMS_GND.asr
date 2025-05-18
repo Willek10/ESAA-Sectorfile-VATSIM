@@ -1,0 +1,73 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESMS RWY\11:freetext
+Free Text:ESMS RWY\17:freetext
+Free Text:ESMS RWY\29:freetext
+Free Text:ESMS RWY\35:freetext
+Free Text:ESMS RWY\FATO J:freetext
+Free Text:ESMS STAND\1:freetext
+Free Text:ESMS STAND\10:freetext
+Free Text:ESMS STAND\10R:freetext
+Free Text:ESMS STAND\12:freetext
+Free Text:ESMS STAND\14:freetext
+Free Text:ESMS STAND\16:freetext
+Free Text:ESMS STAND\16R:freetext
+Free Text:ESMS STAND\18:freetext
+Free Text:ESMS STAND\2:freetext
+Free Text:ESMS STAND\20:freetext
+Free Text:ESMS STAND\21:freetext
+Free Text:ESMS STAND\22C:freetext
+Free Text:ESMS STAND\22D:freetext
+Free Text:ESMS STAND\23:freetext
+Free Text:ESMS STAND\24:freetext
+Free Text:ESMS STAND\25:freetext
+Free Text:ESMS STAND\27:freetext
+Free Text:ESMS STAND\29:freetext
+Free Text:ESMS STAND\3:freetext
+Free Text:ESMS STAND\4:freetext
+Free Text:ESMS STAND\5:freetext
+Free Text:ESMS STAND\6:freetext
+Free Text:ESMS STAND\7:freetext
+Free Text:ESMS STAND\8:freetext
+Free Text:ESMS STAND\9:freetext
+Free Text:ESMS STAND\9L:freetext
+Free Text:ESMS STAND\Aeroklubben Malmö:freetext
+Free Text:ESMS STAND\APN W:freetext
+Free Text:ESMS STAND\Cargo:freetext
+Free Text:ESMS STAND\Fuel:freetext
+Free Text:ESMS STAND\General aviation - Sturup Aeroclub:freetext
+Free Text:ESMS STAND\HA:freetext
+Free Text:ESMS STAND\HB:freetext
+Free Text:ESMS STAND\JA:freetext
+Free Text:ESMS STAND\JB:freetext
+Free Text:ESMS TAXIWAY\A:freetext
+Free Text:ESMS TAXIWAY\B:freetext
+Free Text:ESMS TAXIWAY\C:freetext
+Free Text:ESMS TAXIWAY\D:freetext
+Free Text:ESMS TAXIWAY\E:freetext
+Free Text:ESMS TAXIWAY\F:freetext
+Free Text:ESMS TAXIWAY\H:freetext
+Free Text:ESMS TAXIWAY\J:freetext
+Free Text:ESMS TAXIWAY\Y:freetext
+Free Text:ESMS TAXIWAY\Y:freetext
+Free Text:ESMS TAXIWAY\Y:freetext
+Geo:ESMS Groundlayout:
+Regions:ESMS GROUND:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:276.64000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:55.515915:13.320787:55.553635:13.463664
+PLUGIN:TopSky plugin:HideMapData:ACC

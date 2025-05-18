@@ -1,0 +1,32 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESIA RWY\06:freetext
+Free Text:ESIA RWY\24:freetext
+Free Text:ESIA STAND\APN 1:freetext
+Free Text:ESIA STAND\APN 2:freetext
+Free Text:ESIA STAND\APN 3:freetext
+Free Text:ESIA STAND\APN 4:freetext
+Free Text:ESIA TAXIWAY\N:freetext
+Free Text:ESIA TAXIWAY\S:freetext
+Free Text:ESIA TAXIWAY\V:freetext
+Free Text:ESIA TAXIWAY\V:freetext
+Geo:ESIA Groundlayout:
+Regions:ESIA GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:208.90000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:58.505498:14.470041:58.524811:14.543195
+PLUGIN:TopSky plugin:HideMapData:ACC

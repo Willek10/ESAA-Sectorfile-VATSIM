@@ -1,0 +1,44 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESMV RWY\04:freetext
+Free Text:ESMV RWY\22:freetext
+Free Text:ESMV RWY\Road E4:freetext
+Free Text:ESMV RWY\Road E4:freetext
+Free Text:ESMV RWY\RWY B:freetext
+Free Text:ESMV RWY\RWY D:freetext
+Free Text:ESMV STAND\APN 1:freetext
+Free Text:ESMV STAND\APN 2:freetext
+Free Text:ESMV STAND\APN 3 (TP):freetext
+Free Text:ESMV STAND\APN 4:freetext
+Free Text:ESMV STAND\APN 5 (Aeroclub):freetext
+Free Text:ESMV STAND\APN 6:freetext
+Free Text:ESMV TAXIWAY\Y:freetext
+Free Text:ESMV TAXIWAY\Y:freetext
+Free Text:ESMV TAXIWAY\Y:freetext
+Free Text:ESNJ RWY\14:freetext
+Free Text:ESNJ RWY\32:freetext
+Free Text:ESNJ RWY\RWY B:freetext
+Free Text:ESNJ RWY\RWY C:freetext
+Free Text:ESNJ RWY\RWY D:freetext
+Free Text:ESNJ STAND\APN 1:freetext
+Free Text:ESNJ STAND\APN 2:freetext
+Geo:ESMV Groundlayout:
+Regions:ESMV GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:46.90000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:57.282328:14.048392:57.334244:14.172207
+PLUGIN:TopSky plugin:HideMapData:ACC

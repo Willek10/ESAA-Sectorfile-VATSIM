@@ -1,0 +1,34 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESKM RWY\16:freetext
+Free Text:ESKM RWY\34:freetext
+Free Text:ESKM STAND\1A:freetext
+Free Text:ESKM STAND\1B:freetext
+Free Text:ESKM STAND\2:freetext
+Free Text:ESKM STAND\Aeroclub:freetext
+Free Text:ESKM STAND\Fuel:freetext
+Free Text:ESKM STAND\GA Parking:freetext
+Free Text:ESKM STAND\SLA:freetext
+Free Text:ESKM STAND\Terminal:freetext
+Free Text:ESKM TAXIWAY\A:freetext
+Free Text:ESKM TAXIWAY\B:freetext
+Geo:ESKM Groundlayout:
+Regions:ESKM GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:288.80000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:60.952314:14.486988:60.964675:14.533808
+PLUGIN:TopSky plugin:HideMapData:ACC

@@ -1,0 +1,38 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESMX RWY\01:freetext
+Free Text:ESMX RWY\19:freetext
+Free Text:ESMX STAND\10:freetext
+Free Text:ESMX STAND\12:freetext
+Free Text:ESMX STAND\14:freetext
+Free Text:ESMX STAND\16:freetext
+Free Text:ESMX STAND\18:freetext
+Free Text:ESMX STAND\6:freetext
+Free Text:ESMX STAND\8:freetext
+Free Text:ESMX STAND\Aeroclub:freetext
+Free Text:ESMX STAND\Fuel:freetext
+Free Text:ESMX TAXIWAY\A:freetext
+Free Text:ESMX TAXIWAY\B:freetext
+Free Text:ESMX TAXIWAY\C:freetext
+Geo:ESMX Groundlayout:
+Regions:ESMX GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:77.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:56.920008:14.699851:56.935459:14.758377
+PLUGIN:Ground Radar plugin:GroundMode:ESMX
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

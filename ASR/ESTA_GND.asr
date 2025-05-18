@@ -1,0 +1,52 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESTA RWY\14:freetext
+Free Text:ESTA RWY\32:freetext
+Free Text:ESTA STAND\1A:freetext
+Free Text:ESTA STAND\1B:freetext
+Free Text:ESTA STAND\2:freetext
+Free Text:ESTA STAND\3A:freetext
+Free Text:ESTA STAND\3B:freetext
+Free Text:ESTA STAND\4:freetext
+Free Text:ESTA STAND\Aeroclub:freetext
+Free Text:ESTA STAND\APN D:freetext
+Free Text:ESTA STAND\APN W:freetext
+Free Text:ESTA STAND\D1:freetext
+Free Text:ESTA STAND\D2:freetext
+Free Text:ESTA STAND\D3:freetext
+Free Text:ESTA STAND\D4:freetext
+Free Text:ESTA STAND\Fuel:freetext
+Free Text:ESTA STAND\Terminal:freetext
+Free Text:ESTA STAND\W1 (GA):freetext
+Free Text:ESTA STAND\W2:freetext
+Free Text:ESTA STAND\W3:freetext
+Free Text:ESTA STAND\W4:freetext
+Free Text:ESTA TAXIWAY\A:freetext
+Free Text:ESTA TAXIWAY\C:freetext
+Free Text:ESTA TAXIWAY\C:freetext
+Free Text:ESTA TAXIWAY\C:freetext
+Free Text:ESTA TAXIWAY\F:freetext
+Free Text:ESTA TAXIWAY\G:freetext
+Free Text:ESTA TAXIWAY\M:freetext
+Geo:ESTA Groundlayout:
+Regions:ESTA GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:313.56000
+TAGFAMILY:GRplugin
+WINDOWAREA:56.282727:12.826672:56.298177:12.885195
+PLUGIN:Ground Radar plugin:GroundMode:ESTA
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

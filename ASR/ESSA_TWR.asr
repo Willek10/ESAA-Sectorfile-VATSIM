@@ -1,0 +1,26 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:ESSA CTR:
+ARTCC low boundary:ESSB CTR:
+Geo:ESSA Tower CTR:
+Regions:ESSA TWR:polygon
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:59.400716:16.965763:59.952219:19.054764
+PLUGIN:Ground Radar plugin:TowerMode:ESSA
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:Ground Radar plugin:HideMapData:GND

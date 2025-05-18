@@ -1,0 +1,62 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESKN RWY\08:freetext
+Free Text:ESKN RWY\16:freetext
+Free Text:ESKN RWY\26:freetext
+Free Text:ESKN RWY\34:freetext
+Free Text:ESKN STAND\10:freetext
+Free Text:ESKN STAND\10A:freetext
+Free Text:ESKN STAND\10B:freetext
+Free Text:ESKN STAND\3:freetext
+Free Text:ESKN STAND\4:freetext
+Free Text:ESKN STAND\4A:freetext
+Free Text:ESKN STAND\4B:freetext
+Free Text:ESKN STAND\4C:freetext
+Free Text:ESKN STAND\4E:freetext
+Free Text:ESKN STAND\4F:freetext
+Free Text:ESKN STAND\4F:freetext
+Free Text:ESKN STAND\4G:freetext
+Free Text:ESKN STAND\4X:freetext
+Free Text:ESKN STAND\4Y:freetext
+Free Text:ESKN STAND\6:freetext
+Free Text:ESKN STAND\7:freetext
+Free Text:ESKN STAND\8:freetext
+Free Text:ESKN STAND\9:freetext
+Free Text:ESKN STAND\Aeroclub:freetext
+Free Text:ESKN STAND\APN 4:freetext
+Free Text:ESKN STAND\APN 5:freetext
+Free Text:ESKN STAND\Engine test site:freetext
+Free Text:ESKN STAND\Fuel:freetext
+Free Text:ESKN STAND\General aviation:freetext
+Free Text:ESKN STAND\KBV:freetext
+Free Text:ESKN STAND\SCT:freetext
+Free Text:ESKN STAND\Terminal:freetext
+Free Text:ESKN TAXIWAY\A:freetext
+Free Text:ESKN TAXIWAY\B:freetext
+Free Text:ESKN TAXIWAY\C:freetext
+Free Text:ESKN TAXIWAY\E:freetext
+Free Text:ESKN TAXIWAY\F:freetext
+Free Text:ESKN TAXIWAY\G:freetext
+Geo:ESKN Groundlayout:
+Regions:ESKN GROUND:polygon
+SHOWC:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.90000
+TAGFAMILY:GRplugin
+WINDOWAREA:58.782384:16.890287:58.798072:16.948809
+PLUGIN:Ground Radar plugin:GroundMode:ESKN
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

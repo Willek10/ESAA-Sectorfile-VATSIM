@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNJ RWY\14:freetext
+Free Text:ESNJ RWY\32:freetext
+Free Text:ESNJ RWY\RWY B:freetext
+Free Text:ESNJ RWY\RWY C:freetext
+Free Text:ESNJ RWY\RWY D:freetext
+Free Text:ESNJ STAND\APN 1:freetext
+Free Text:ESNJ STAND\APN 2:freetext
+Geo:ESNJ Groundlayout:
+Regions:ESNJ GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:305.70000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:66.483228:20.100613:66.505630:20.186924
+PLUGIN:TopSky plugin:HideMapData:ACC

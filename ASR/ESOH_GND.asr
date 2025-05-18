@@ -1,0 +1,27 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESOH RWY\18:freetext
+Free Text:ESOH RWY\36:freetext
+Free Text:ESOH STAND\Aeroclub:freetext
+Free Text:ESOH STAND\Fuel:freetext
+Free Text:ESOH TAXIWAY\A:freetext
+Geo:ESOH Groundlayout:
+Regions:ESOH GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:93.30000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:60.016107:13.561827:60.025995:13.599281
+PLUGIN:TopSky plugin:HideMapData:ACC

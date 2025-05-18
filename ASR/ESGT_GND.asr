@@ -1,0 +1,43 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESGT RWY\15:freetext
+Free Text:ESGT RWY\33:freetext
+Free Text:ESGT STAND\1:freetext
+Free Text:ESGT STAND\11:freetext
+Free Text:ESGT STAND\12:freetext
+Free Text:ESGT STAND\2:freetext
+Free Text:ESGT STAND\3:freetext
+Free Text:ESGT STAND\4:freetext
+Free Text:ESGT STAND\5:freetext
+Free Text:ESGT STAND\Aeroclub:freetext
+Free Text:ESGT STAND\Fuel:freetext
+Free Text:ESGT STAND\Soaring club:freetext
+Free Text:ESGT STAND\Terminal:freetext
+Free Text:ESGT TAXIWAY\A:freetext
+Free Text:ESGT TAXIWAY\B:freetext
+Free Text:ESGT TAXIWAY\C:freetext
+Free Text:ESGT TAXIWAY\M:freetext
+Free Text:ESGT TAXIWAY\S:freetext
+Geo:ESGT Groundlayout:
+Regions:ESGT GROUND:polygon
+SHOWC:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:123.85000
+TAGFAMILY:GRplugin
+WINDOWAREA:58.308817:12.316598:58.328129:12.389751
+PLUGIN:Ground Radar plugin:GroundMode:ESGT
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

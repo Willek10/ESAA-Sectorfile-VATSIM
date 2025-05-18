@@ -1,0 +1,37 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNG RWY\12:freetext
+Free Text:ESNG RWY\30:freetext
+Free Text:ESNG RWY\TLOF:freetext
+Free Text:ESNG STAND\1:freetext
+Free Text:ESNG STAND\2:freetext
+Free Text:ESNG STAND\3:freetext
+Free Text:ESNG STAND\Aeroclub:freetext
+Free Text:ESNG STAND\APN A:freetext
+Free Text:ESNG STAND\APN B:freetext
+Free Text:ESNG STAND\Fuel:freetext
+Free Text:ESNG STAND\NDA STD 1:freetext
+Free Text:ESNG STAND\SLA:freetext
+Free Text:ESNG STAND\Terminal:freetext
+Free Text:ESNG TAXIWAY\A:freetext
+Free Text:ESNG TAXIWAY\B:freetext
+Geo:ESNG Groundlayout:
+Regions:ESNG GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:152.20000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:67.124244:20.785021:67.139694:20.843543
+PLUGIN:TopSky plugin:HideMapData:ACC

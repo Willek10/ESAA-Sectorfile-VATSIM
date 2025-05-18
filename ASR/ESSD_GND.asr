@@ -1,0 +1,44 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESSD RWY\12:freetext
+Free Text:ESSD RWY\14:freetext
+Free Text:ESSD RWY\30:freetext
+Free Text:ESSD RWY\32:freetext
+Free Text:ESSD STAND\1:freetext
+Free Text:ESSD STAND\10:freetext
+Free Text:ESSD STAND\2:freetext
+Free Text:ESSD STAND\3:freetext
+Free Text:ESSD STAND\4:freetext
+Free Text:ESSD STAND\5:freetext
+Free Text:ESSD STAND\6:freetext
+Free Text:ESSD STAND\7:freetext
+Free Text:ESSD STAND\8:freetext
+Free Text:ESSD STAND\9:freetext
+Free Text:ESSD STAND\Aeroclub:freetext
+Free Text:ESSD STAND\Deviation APN:freetext
+Free Text:ESSD STAND\Fuel:freetext
+Free Text:ESSD STAND\Fuel:freetext
+Free Text:ESSD STAND\Jets STD 2:freetext
+Free Text:ESSD STAND\Terminal:freetext
+Free Text:ESSD TAXIWAY\A:freetext
+Free Text:ESSD TAXIWAY\B:freetext
+Geo:ESSD Groundlayout:
+Regions:ESSD GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:137.50000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:60.413689:15.474229:60.433002:15.547382
+PLUGIN:TopSky plugin:HideMapData:ACC

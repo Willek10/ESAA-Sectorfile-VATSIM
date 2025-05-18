@@ -1,0 +1,24 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:14.15000
+TAGFAMILY:GRplugin
+WINDOWAREA:59.636895:17.882306:59.674645:18.002732
+PLUGIN:Ground Radar plugin:AirportElevation:137
+PLUGIN:Ground Radar plugin:AirportRadius:2.1
+PLUGIN:Ground Radar plugin:GroundMode:ESSA
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

@@ -1,0 +1,27 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNV RWY\10:freetext
+Free Text:ESNV RWY\28:freetext
+Free Text:ESNV STAND\Fuel:freetext
+Free Text:ESNV STAND\Terminal:freetext
+Free Text:ESNV TAXIWAY\A:freetext
+Geo:ESNV Groundlayout:
+Regions:ESNV GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:166.80000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:64.572821:16.806032:64.588507:16.864554
+PLUGIN:TopSky plugin:HideMapData:ACC

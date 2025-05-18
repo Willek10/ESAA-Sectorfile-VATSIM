@@ -1,0 +1,31 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNO RWY\12:freetext
+Free Text:ESNO RWY\30:freetext
+Free Text:ESNO STAND\1:freetext
+Free Text:ESNO STAND\2:freetext
+Free Text:ESNO STAND\3:freetext
+Free Text:ESNO STAND\Aeroclub:freetext
+Free Text:ESNO STAND\Fuel:freetext
+Free Text:ESNO STAND\Terminal:freetext
+Free Text:ESNO TAXIWAY\A:freetext
+Geo:ESNO Groundlayout:
+Regions:ESNO GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:148.35000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:63.399642:18.956031:63.418955:19.029185
+PLUGIN:TopSky plugin:HideMapData:ACC

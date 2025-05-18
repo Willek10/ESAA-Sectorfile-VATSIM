@@ -1,0 +1,510 @@
+PROFILE
+PROFILE:ESAA_CTR:300:6
+ATIS2:Sweden Control CPDLC ESAA
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESAA_PLN_CTR:300:6
+ATIS2:Sweden Planner
+ATIS3:
+ATIS4:
+PROFILE:ESSR_CTR:250:6
+ATIS2:RTC Stockholm AOR
+ATIS3:Remote TWR Services at airports not covered by local TWR.
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESSR_MM_APP:150:5
+ATIS2:RTC Malmö AOR
+ATIS3:Remote TWR Services at airports not covered by local TWR.
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESMM_2_CTR:250:6
+ATIS2:Sweden Control CPDLC ESMM
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:Initial climb clearance 5000 ft at ESGG unless otherwise instructed.
+PROFILE:ESMM_3_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM3
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_4_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM4
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:Initial climb clearance 5000 ft at ESGG unless otherwise instructed.
+PROFILE:ESMM_5_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM5
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:Initial climb clearance 5000 ft at ESGG unless otherwise instructed.
+PROFILE:ESMM_6_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM6
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_7_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM7
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_8_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM8
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_9_CTR:250:6
+ATIS2:Sweden Control CPDLC ESM9
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_K_CTR:250:6
+ATIS2:Sweden Control CPDLC ESMK
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_XK_CTR:250:6
+ATIS2:Sweden Control CPDLC ESMX
+ATIS3:
+ATIS4:
+PROFILE:ESMM_W_CTR:250:6
+ATIS2:Sweden Control CPDLC ESMW
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_Y_CTR:250:6
+ATIS2:Sweden Control CPDLC ESMY
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMM_IN_CTR:250:6
+ATIS2:Sweden Control
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_1_CTR:250:6
+ATIS2:Sweden Control CPDLC ESOS
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_2_CTR:250:6
+ATIS2:Sweden Control CPDLC ESO2
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_3_CTR:250:6
+ATIS2:Sweden Control CPDLC ESO3
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_4_CTR:400:6
+ATIS2:Sweden Control CPDLC ESO4
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_6_CTR:250:6
+ATIS2:Sweden Control CPDLC ESO6
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_7_CTR:250:6
+ATIS2:Sweden Control CPDLC ESO7
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_8_CTR:250:6
+ATIS2:Sweden Control CPDLC ESO8
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_9_CTR:250:6
+ATIS2:Sweden Control CPDLC ESO9
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_F_CTR:250:6
+ATIS2:Sweden Control CPDLC ESOF
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_K_CTR:250:6
+ATIS2:Sweden Control CPDLC ESOK
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_N_CTR:250:6
+ATIS2:Sweden Control CPDLC ESON
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOS_XK_CTR:250:6
+ATIS2:Sweden Control CPDLC ESOX
+ATIS3:
+ATIS4:
+PROFILE:ESOS_YK_CTR:250:6
+ATIS2:Sweden Control CPDLC ESOY
+ATIS3:
+ATIS4:
+PROFILE:ESCR_CTR:250:6
+ATIS2:Fighter Control
+ATIS3:
+ATIS4:
+PROFILE:ESDK_CTR:250:6
+ATIS2:Fighter Control
+ATIS3:
+ATIS4:
+PROFILE:ESPF_CTR:250:6
+ATIS2:Fighter Control
+ATIS3:
+ATIS4:
+PROFILE:ESCF_APP:150:5
+ATIS2:Östgöta Approach
+ATIS3:MIL channel C2
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESCF_P_APP:150:5
+ATIS2:Malmen Precision
+ATIS3:MIL channel B
+ATIS4:
+PROFILE:ESCF_TWR:50:4
+ATIS2:Malmen Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESCF_GND:20:3
+ATIS2:Malmen Ground
+ATIS3:
+ATIS4:
+PROFILE:ESCM_APP:150:5
+ATIS2:Uppsala Approach
+ATIS3:MIL channel C
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESCM_TWR:50:4
+ATIS2:Uppsala Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESDF_APP:150:5
+ATIS2:Ronneby Approach
+ATIS3:MIL channel C2
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESDF_P_APP:150:5
+ATIS2:Ronneby Precision
+ATIS3:MIL channel B
+ATIS4:
+PROFILE:ESDF_TWR:50:4
+ATIS2:Ronneby Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESDF_GND:20:3
+ATIS2:Ronneby Ground
+ATIS3:
+ATIS4:
+PROFILE:ESGG_E_APP:150:5
+ATIS2:Göteborg Approach CPDLC ESGE
+ATIS3:ESGG Initial climb clearance to 5000 ft unless otherwise instructed.
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESGG_W_APP:150:5
+ATIS2:Göteborg Approach CPDLC ESGW
+ATIS3:ESGG Initial climb clearance to 5000 ft unless otherwise instructed.
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESGG_A_APP:150:5
+ATIS2:Göteborg Arrival
+ATIS3:State callsign only on first contact.
+ATIS4:
+PROFILE:ESGG_TWR:50:4
+ATIS2:Landvetter Tower
+ATIS3:DCL Available
+ATIS4:Initial climb clearance to 5000 ft unless otherwise instructed.
+PROFILE:ESGG_GND:20:3
+ATIS2:Landvetter Ground
+ATIS3:DCL Available
+ATIS4:Initial climb clearance to 5000 ft unless otherwise instructed.
+PROFILE:ESGG_DEL:20:2
+ATIS2:Landvetter Clearance Delivery
+ATIS3:DCL Available
+ATIS4:Initial climb clearance to 5000 ft unless otherwise instructed.
+PROFILE:ESGJ_TWR:50:4
+ATIS2:Jönköping Tower
+ATIS3:Covering Jönköping CTR and TMA.
+ATIS4:
+PROFILE:ESGP_TWR:50:4
+ATIS2:Säve Tower
+ATIS3:Covering Säve CTR.
+ATIS4:
+PROFILE:ESGT_TWR:50:4
+ATIS2:Trollhättan Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESIA_APP:150:5
+ATIS2:Karlsborg Approach
+ATIS3:MIL channel C2
+ATIS4:
+PROFILE:ESIA_TWR:50:4
+ATIS2:Karlsborg Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESIB_APP:150:5
+ATIS2:Såtenäs Approach
+ATIS3:MIL channel C2
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESIB_P_APP:150:5
+ATIS2:Såtenäs Precision
+ATIS3:MIL channel B
+ATIS4:
+PROFILE:ESIB_TWR:50:4
+ATIS2:Såtenäs Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESIB_GND:20:3
+ATIS2:Såtenäs Ground
+ATIS3:
+ATIS4:
+PROFILE:ESKM_I_TWR:50:4
+ATIS2:Mora Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESKN_TWR:50:4
+ATIS2:Skavsta Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESKS_TWR:50:4
+ATIS2:Sälen Tower
+ATIS3:Covering Sälen CTR and TMA.
+ATIS4:
+PROFILE:ESMK_TWR:50:4
+ATIS2:Kristianstad Tower
+ATIS3:Covering Kristianstad CTR and TMA.
+ATIS4:
+PROFILE:ESMQ_TWR:50:4
+ATIS2:Kalmar Tower
+ATIS3:Covering Kalmar CTR and TMA.
+ATIS4:
+PROFILE:ESMS_APP:150:5
+ATIS2:Sweden Control CPDLC ESML
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESMS_XL_APP:150:5
+ATIS2:Sweden Control CPDLC ESMS
+ATIS3:
+ATIS4:
+PROFILE:ESMS_IS_APP:150:5
+ATIS2:Sweden Control
+ATIS3:
+ATIS4:
+PROFILE:ESMS_TWR:50:4
+ATIS2:Sturup Tower
+ATIS3:
+ATIS4:
+PROFILE:ESMS_GND:20:3
+ATIS2:Sturup Tower
+ATIS3:
+ATIS4:
+PROFILE:ESMT_TWR:50:4
+ATIS2:Halmstad Tower
+ATIS3:Covering Halmstad CTR and TMA.
+ATIS4:
+PROFILE:ESMV_APP:150:5
+ATIS2:Hagshult Approach
+ATIS3:MIL channel C
+ATIS4:
+PROFILE:ESMV_TWR:50:4
+ATIS2:Hagshult Tower
+ATIS3:MIL channel A
+ATIS4:
+PROFILE:ESMX_TWR:50:4
+ATIS2:Kronoberg Tower
+ATIS3:Covering Kronoberg CTR and TMA.
+ATIS4:
+PROFILE:ESND_I_TWR:50:4
+ATIS2:Sveg Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNG_I_TWR:50:4
+ATIS2:Gällivare Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNJ_APP:150:5
+ATIS2:Jokkmokk Approach
+ATIS3:MIL channel C
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESNJ_TWR:50:4
+ATIS2:Jokkmokk Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESNK_I_TWR:50:4
+ATIS2:Kramfors Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNL_I_TWR:50:4
+ATIS2:Lycksele Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNN_TWR:50:4
+ATIS2:Sundsvall Tower
+ATIS3:Covering Sundsvall CTR and TMA.
+ATIS4:
+PROFILE:ESNO_TWR:50:4
+ATIS2:Övik Tower
+ATIS3:Covering Örnsköldsvik CTR and TMA.
+ATIS4:
+PROFILE:ESNQ_TWR:50:4
+ATIS2:Kiruna Tower
+ATIS3:Covering Kiruna CTR and TMA.
+ATIS4:
+PROFILE:ESNS_TWR:50:4
+ATIS2:Skellefteå Tower
+ATIS3:Covering Skellefteå CTR and TMA.
+ATIS4:
+PROFILE:ESNU_TWR:50:4
+ATIS2:Umeå Tower
+ATIS3:Covering Umeå CTR and TMA.
+ATIS4:
+PROFILE:ESNV_I_TWR:50:4
+ATIS2:Vilhelmina Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNX_TWR:50:4
+ATIS2:Arvidsjaur Tower
+ATIS3:Covering Arvidsjaur CTR and TMA.
+ATIS4:
+PROFILE:ESNX_I_TWR:50:4
+ATIS2:Arvidsjaur Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESNZ_TWR:50:4
+ATIS2:Östersund Tower
+ATIS3:Covering Östersund CTR and TMA.
+ATIS4:
+PROFILE:ESOE_TWR:50:4
+ATIS2:Örebro Tower
+ATIS3:Covering Örebro CTR and TMA.
+ATIS4:
+PROFILE:ESOH_I_TWR:50:4
+ATIS2:Hagfors Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESOK_TWR:50:4
+ATIS2:Karlstad Tower
+ATIS3:Covering Karlstad CTR and TMA.
+ATIS4:
+PROFILE:ESOW_APP:150:4
+ATIS2:Västerås Approach
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESOW_TWR:50:4
+ATIS2:Västerås Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESPA_APP:150:5
+ATIS2:Kallax Approach
+ATIS3:MIL channel C2
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESPA_F_APP:150:5
+ATIS2:Kallax Approach
+ATIS3:MIL channel C
+ATIS4:
+PROFILE:ESPA_P_APP:150:5
+ATIS2:Kallax Precision
+ATIS3:MIL channel B
+ATIS4:
+PROFILE:ESPA_TWR:50:4
+ATIS2:Kallax Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESPE_APP:150:5
+ATIS2:Vidsel Approach
+ATIS3:MIL channel C2
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESPE_P_APP:150:5
+ATIS2:Vidsel Precision
+ATIS3:MIL channel B
+ATIS4:
+PROFILE:ESPE_TWR:50:4
+ATIS2:Vidsel Tower
+ATIS3:MIL channel A
+ATIS4:Check coverage at vatglasses.uk
+PROFILE:ESSA_E_APP:150:5
+ATIS2:Stockholm Approach CPDLC ESSE
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESSA_E_DEP:150:5
+ATIS2:Stockholm Departure
+ATIS3:
+ATIS4:
+PROFILE:ESSA_W_APP:150:5
+ATIS2:Stockholm Approach CPDLC ESSW
+ATIS3:Check coverage at vatglasses.uk
+ATIS3:
+PROFILE:ESSA_A_APP:150:5
+ATIS2:Stockholm Arrival
+ATIS3:State callsign only on first contact.
+ATIS4:
+PROFILE:ESSA_W_DEP:150:5
+ATIS2:Stockholm Departure
+ATIS3:
+ATIS4:
+PROFILE:ESSA_W_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSA_E_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSA_S_TWR:50:4
+ATIS2:Arlanda Tower
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSA_E_GND:20:3
+ATIS2:Arlanda Ground
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSA_N_GND:20:3
+ATIS2:Arlanda Ground
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSA_W_GND:20:3
+ATIS2:Arlanda Ground
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSA_DEL:20:2
+ATIS2:Arlanda Clearance Delivery
+ATIS3:DCL Available
+ATIS4:
+PROFILE:ESSB_TWR:50:4
+ATIS2:Bromma Tower
+ATIS3:Covering Bromma CTR.
+ATIS4:
+PROFILE:ESSB_GND:20:3
+ATIS2:Bromma Ground
+ATIS3:
+ATIS4:
+PROFILE:ESSB_APP:150:5
+ATIS2:Stockholm Approach CPDLC ESSS
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESSD_TWR:50:4
+ATIS2:Borlänge Tower
+ATIS3:Covering Borlänge CTR and TMA.
+ATIS4:
+PROFILE:ESSL_TWR:50:4
+ATIS2:Saab Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESSP_TWR:50:4
+ATIS2:Kungsängen Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESSP_APP:150:5
+ATIS2:Östgöta Approach
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESST_I_TWR:50:4
+ATIS2:Torsby Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESSU_I_TWR:50:4
+ATIS2:Eskilstuna Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESSV_APP:150:5
+ATIS2:Visby Approach
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESSV_TWR:50:4
+ATIS2:Visby Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESTA_APP:150:5
+ATIS2:Ängelholm Approach
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESTA_TWR:50:4
+ATIS2:Ängelholm Tower
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESTL_TWR:150:4
+ATIS2:Ljungbyhed Approach
+ATIS3:Check coverage at vatglasses.uk
+ATIS4:
+PROFILE:ESUP_I_TWR:50:4
+ATIS2:Pajala Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+PROFILE:ESUT_I_TWR:50:4
+ATIS2:Hemavan Information
+ATIS3:Aerodrome Flight Information Service only - no control service
+ATIS4:
+END

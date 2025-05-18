@@ -1,0 +1,34 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESSU RWY\18:freetext
+Free Text:ESSU RWY\36:freetext
+Free Text:ESSU STAND\1:freetext
+Free Text:ESSU STAND\2:freetext
+Free Text:ESSU STAND\3:freetext
+Free Text:ESSU STAND\4:freetext
+Free Text:ESSU STAND\5:freetext
+Free Text:ESSU STAND\6:freetext
+Free Text:ESSU STAND\Aeroclub:freetext
+Free Text:ESSU STAND\Fuel:freetext
+Free Text:ESSU TAXIWAY\A:freetext
+Free Text:ESSU TAXIWAY\B:freetext
+Geo:ESSU Groundlayout:
+Regions:ESSU GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:272.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.342591:16.671674:59.361903:16.744827
+PLUGIN:TopSky plugin:HideMapData:ACC

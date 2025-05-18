@@ -1,0 +1,75 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESPA MIL\(HKP 14):freetext
+Free Text:ESPA MIL\(HKP 16):freetext
+Free Text:ESPA MIL\(TP):freetext
+Free Text:ESPA MIL\MIL APN 1:freetext
+Free Text:ESPA MIL\MIL APN 2 (JAS):freetext
+Free Text:ESPA MIL\MIL APN 3 (JAS):freetext
+Free Text:ESPA MIL\MIL APN 4:freetext
+Free Text:ESPA MIL\MIL APN 5:freetext
+Free Text:ESPA MIL\MIL APN 6:freetext
+Free Text:ESPA MIL\MIL APN 7:freetext
+Free Text:ESPA MIL\MIL APN 8:freetext
+Free Text:ESPA MIL\MIL APN 85:freetext
+Free Text:ESPA RWY\14:freetext
+Free Text:ESPA RWY\32:freetext
+Free Text:ESPA STAND\111:freetext
+Free Text:ESPA STAND\112:freetext
+Free Text:ESPA STAND\20:freetext
+Free Text:ESPA STAND\21:freetext
+Free Text:ESPA STAND\22A/B:freetext
+Free Text:ESPA STAND\3:freetext
+Free Text:ESPA STAND\4:freetext
+Free Text:ESPA STAND\5:freetext
+Free Text:ESPA STAND\7A/B:freetext
+Free Text:ESPA STAND\8:freetext
+Free Text:ESPA STAND\Aeroclub:freetext
+Free Text:ESPA STAND\APN 10:freetext
+Free Text:ESPA STAND\APN 11:freetext
+Free Text:ESPA STAND\Deice 12B/A:freetext
+Free Text:ESPA STAND\Fuel:freetext
+Free Text:ESPA STAND\Terminal:freetext
+Free Text:ESPA TAXIWAY\A:freetext
+Free Text:ESPA TAXIWAY\A:freetext
+Free Text:ESPA TAXIWAY\A:freetext
+Free Text:ESPA TAXIWAY\A:freetext
+Free Text:ESPA TAXIWAY\A1:freetext
+Free Text:ESPA TAXIWAY\A2:freetext
+Free Text:ESPA TAXIWAY\A3:freetext
+Free Text:ESPA TAXIWAY\A5:freetext
+Free Text:ESPA TAXIWAY\A6:freetext
+Free Text:ESPA TAXIWAY\A7:freetext
+Free Text:ESPA TAXIWAY\U:freetext
+Free Text:ESPA TAXIWAY\U:freetext
+Free Text:ESPA TAXIWAY\U:freetext
+Free Text:ESPA TAXIWAY\U:freetext
+Free Text:ESPA TAXIWAY\U1:freetext
+Free Text:ESPA TAXIWAY\U2:freetext
+Free Text:ESPA TAXIWAY\U3:freetext
+Free Text:ESPA TAXIWAY\U4:freetext
+Free Text:ESPA TAXIWAY\U5:freetext
+Free Text:ESPA TAXIWAY\U6:freetext
+Free Text:ESPA TAXIWAY\U7:freetext
+Geo:ESPA Groundlayout:
+Regions:ESPA GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:312.67000
+TAGFAMILY:GRplugin
+WINDOWAREA:65.531075:22.072205:65.555216:22.168812
+PLUGIN:Ground Radar plugin:GroundMode:ESPA
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

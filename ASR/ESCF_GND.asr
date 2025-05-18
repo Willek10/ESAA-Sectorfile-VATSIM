@@ -1,0 +1,49 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESCF RWY\01:freetext
+Free Text:ESCF RWY\08:freetext
+Free Text:ESCF RWY\19:freetext
+Free Text:ESCF RWY\26:freetext
+Free Text:ESCF RWY\H09:freetext
+Free Text:ESCF RWY\H27:freetext
+Free Text:ESCF STAND\(HKP 15):freetext
+Free Text:ESCF STAND\(HKP 16):freetext
+Free Text:ESCF STAND\(JAS):freetext
+Free Text:ESCF STAND\APN 3:freetext
+Free Text:ESCF STAND\APN 7:freetext
+Free Text:ESCF STAND\MIL APN 1:freetext
+Free Text:ESCF STAND\MIL APN 2:freetext
+Free Text:ESCF STAND\MIL APN 4 (SK 60):freetext
+Free Text:ESCF STAND\MIL APN 6:freetext
+Free Text:ESCF STAND\MIL APN 8:freetext
+Free Text:ESCF TAXIWAY\C:freetext
+Free Text:ESCF TAXIWAY\E:freetext
+Free Text:ESCF TAXIWAY\F:freetext
+Free Text:ESCF TAXIWAY\K:freetext
+Free Text:ESCF TAXIWAY\N:freetext
+Free Text:ESCF TAXIWAY\P:freetext
+Free Text:ESCF TAXIWAY\Q:freetext
+Free Text:ESCF TAXIWAY\Y:freetext
+Free Text:ESCF TAXIWAY\Z:freetext
+Geo:ESCF Groundlayout:
+Regions:ESCF GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:71.70000
+TAGFAMILY:GRplugin
+WINDOWAREA:58.381704:15.479313:58.412343:15.593619
+PLUGIN:Ground Radar plugin:GroundMode:ESCF
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

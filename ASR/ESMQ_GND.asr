@@ -1,0 +1,46 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESMQ RWY\05:freetext
+Free Text:ESMQ RWY\16:freetext
+Free Text:ESMQ RWY\23:freetext
+Free Text:ESMQ RWY\34:freetext
+Free Text:ESMQ STAND\1:freetext
+Free Text:ESMQ STAND\2:freetext
+Free Text:ESMQ STAND\3:freetext
+Free Text:ESMQ STAND\3A:freetext
+Free Text:ESMQ STAND\4:freetext
+Free Text:ESMQ STAND\5:freetext
+Free Text:ESMQ STAND\6:freetext
+Free Text:ESMQ STAND\Aeroclub:freetext
+Free Text:ESMQ STAND\Fuel:freetext
+Free Text:ESMQ STAND\Terminal:freetext
+Free Text:ESMQ TAXIWAY\A:freetext
+Free Text:ESMQ TAXIWAY\A:freetext
+Free Text:ESMQ TAXIWAY\A1:freetext
+Free Text:ESMQ TAXIWAY\A10:freetext
+Free Text:ESMQ TAXIWAY\A8:freetext
+Free Text:ESMQ TAXIWAY\D:freetext
+Free Text:ESMQ TAXIWAY\E North:freetext
+Free Text:ESMQ TAXIWAY\E South:freetext
+Geo:ESMQ Groundlayout:
+Regions:ESMQ GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:297.75000
+TAGFAMILY:GRplugin
+WINDOWAREA:56.675900:16.254799:56.691350:16.313323
+PLUGIN:Ground Radar plugin:GroundMode:ESMQ
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

@@ -1,0 +1,41 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNQ RWY\03:freetext
+Free Text:ESNQ RWY\21:freetext
+Free Text:ESNQ STAND\1:freetext
+Free Text:ESNQ STAND\2:freetext
+Free Text:ESNQ STAND\3:freetext
+Free Text:ESNQ STAND\4:freetext
+Free Text:ESNQ STAND\5:freetext
+Free Text:ESNQ STAND\6:freetext
+Free Text:ESNQ STAND\Arena Arctica:freetext
+Free Text:ESNQ STAND\Deice:freetext
+Free Text:ESNQ STAND\Fuel:freetext
+Free Text:ESNQ STAND\General aviation:freetext
+Free Text:ESNQ STAND\Jets STD 2,3, AZD 6:freetext
+Free Text:ESNQ STAND\Terminal:freetext
+Free Text:ESNQ TAXIWAY\A:freetext
+Free Text:ESNQ TAXIWAY\B:freetext
+Free Text:ESNQ TAXIWAY\Y:freetext
+Geo:ESNQ Groundlayout:
+Regions:ESNQ GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:236.35000
+TAGFAMILY:GRplugin
+WINDOWAREA:67.814141:20.299011:67.833455:20.374570
+PLUGIN:Ground Radar plugin:GroundMode:ESNQ
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

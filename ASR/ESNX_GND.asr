@@ -1,0 +1,34 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNX RWY\12:freetext
+Free Text:ESNX RWY\30:freetext
+Free Text:ESNX STAND\1:freetext
+Free Text:ESNX STAND\2:freetext
+Free Text:ESNX STAND\3:freetext
+Free Text:ESNX STAND\4:freetext
+Free Text:ESNX STAND\5:freetext
+Free Text:ESNX STAND\Fuel:freetext
+Free Text:ESNX TAXIWAY\A:freetext
+Free Text:ESNX TAXIWAY\B:freetext
+Geo:ESNX Groundlayout:
+Regions:ESNX GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:321.70000
+TAGFAMILY:GRplugin
+WINDOWAREA:65.582887:19.248043:65.598337:19.306566
+PLUGIN:Ground Radar plugin:GroundMode:ESNX
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

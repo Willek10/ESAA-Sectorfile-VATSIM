@@ -1,0 +1,60 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESOW RWY\01:freetext
+Free Text:ESOW RWY\01:freetext
+Free Text:ESOW RWY\19:freetext
+Free Text:ESOW RWY\19:freetext
+Free Text:ESOW STAND\1:freetext
+Free Text:ESOW STAND\2:freetext
+Free Text:ESOW STAND\3:freetext
+Free Text:ESOW STAND\4:freetext
+Free Text:ESOW STAND\Aeroclub:freetext
+Free Text:ESOW STAND\Flight Museum:freetext
+Free Text:ESOW STAND\Fuel:freetext
+Free Text:ESOW STAND\OSM:freetext
+Free Text:ESOW STAND\Scandinavian Helicopter Center:freetext
+Free Text:ESOW STAND\Terminal:freetext
+Free Text:ESOW TAXIWAY\A:freetext
+Free Text:ESOW TAXIWAY\A:freetext
+Free Text:ESOW TAXIWAY\A:freetext
+Free Text:ESOW TAXIWAY\A1:freetext
+Free Text:ESOW TAXIWAY\A2:freetext
+Free Text:ESOW TAXIWAY\A3:freetext
+Free Text:ESOW TAXIWAY\APN 1:freetext
+Free Text:ESOW TAXIWAY\APN 2:freetext
+Free Text:ESOW TAXIWAY\APN 3:freetext
+Free Text:ESOW TAXIWAY\APN 4:freetext
+Free Text:ESOW TAXIWAY\APN 5:freetext
+Free Text:ESOW TAXIWAY\APN 6:freetext
+Free Text:ESOW TAXIWAY\B:freetext
+Free Text:ESOW TAXIWAY\C:freetext
+Free Text:ESOW TAXIWAY\D:freetext
+Free Text:ESOW TAXIWAY\E:freetext
+Free Text:ESOW TAXIWAY\F:freetext
+Free Text:ESOW TAXIWAY\F:freetext
+Free Text:ESOW TAXIWAY\G:freetext
+Geo:ESOW Groundlayout:
+Regions:ESOW GROUND:polygon
+Geo:ESOW Groundlayout:
+Regions:ESOW GROUND:polygon
+SHOWC:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:258.40000
+TAGFAMILY:GRplugin
+WINDOWAREA:59.573979:16.574031:59.604155:16.688332
+PLUGIN:Ground Radar plugin:GroundMode:ESOW
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

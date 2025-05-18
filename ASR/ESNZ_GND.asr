@@ -1,0 +1,55 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNZ RWY\12:freetext
+Free Text:ESNZ RWY\30:freetext
+Free Text:ESNZ RWY\FATO A:freetext
+Free Text:ESNZ RWY\FATO F:freetext
+Free Text:ESNZ STAND\1E:freetext
+Free Text:ESNZ STAND\1W:freetext
+Free Text:ESNZ STAND\2E:freetext
+Free Text:ESNZ STAND\2W:freetext
+Free Text:ESNZ STAND\3E:freetext
+Free Text:ESNZ STAND\3W:freetext
+Free Text:ESNZ STAND\4E:freetext
+Free Text:ESNZ STAND\4W:freetext
+Free Text:ESNZ STAND\A:freetext
+Free Text:ESNZ STAND\APN East:freetext
+Free Text:ESNZ STAND\APN North:freetext
+Free Text:ESNZ STAND\B:freetext
+Free Text:ESNZ STAND\C:freetext
+Free Text:ESNZ STAND\E2:freetext
+Free Text:ESNZ STAND\E3:freetext
+Free Text:ESNZ STAND\E4:freetext
+Free Text:ESNZ STAND\Terminal:freetext
+Free Text:ESNZ STAND\Y:freetext
+Free Text:ESNZ STAND\Z:freetext
+Free Text:ESNZ STAND\POL:freetext
+Free Text:ESNZ STAND\APN West:freetext
+Free Text:ESNZ TAXIWAY\A:freetext
+Free Text:ESNZ TAXIWAY\B:freetext
+Free Text:ESNZ TAXIWAY\F:freetext
+Free Text:ESNZ TAXIWAY\F:freetext
+Free Text:ESNZ TAXIWAY\G:freetext
+Free Text:ESNZ TAXIWAY\HEL TWY:freetext
+Geo:ESNZ Groundlayout:
+Regions:ESNZ GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:155.30000
+TAGFAMILY:GRplugin
+WINDOWAREA:63.183535:14.463870:63.202848:14.542792
+PLUGIN:Ground Radar plugin:GroundMode:ESNZ
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

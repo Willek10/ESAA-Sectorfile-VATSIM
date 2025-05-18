@@ -1,0 +1,43 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESOK RWY\03:freetext
+Free Text:ESOK RWY\21:freetext
+Free Text:ESOK RWY\Glider strip:freetext
+Free Text:ESOK RWY\TLOF:freetext
+Free Text:ESOK STAND\3:freetext
+Free Text:ESOK STAND\4:freetext
+Free Text:ESOK STAND\5:freetext
+Free Text:ESOK STAND\6:freetext
+Free Text:ESOK STAND\7:freetext
+Free Text:ESOK STAND\APN E:freetext
+Free Text:ESOK STAND\APN N:freetext
+Free Text:ESOK STAND\APN S:freetext
+Free Text:ESOK STAND\Cargo:freetext
+Free Text:ESOK STAND\Fuel:freetext
+Free Text:ESOK STAND\SLA:freetext
+Free Text:ESOK STAND\Terminal:freetext
+Free Text:ESOK TAXIWAY\E:freetext
+Free Text:ESOK TAXIWAY\H1:freetext
+Free Text:ESOK TAXIWAY\H2:freetext
+Free Text:ESOK TAXIWAY\N:freetext
+Free Text:ESOK TAXIWAY\S:freetext
+Geo:ESOK Groundlayout:
+Regions:ESOK GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:64.50000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.437781:13.312014:59.453231:13.370537
+PLUGIN:TopSky plugin:HideMapData:ACC

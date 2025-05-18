@@ -1,0 +1,34 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESOE RWY\01:freetext
+Free Text:ESOE RWY\18:freetext
+Free Text:ESOE RWY\19:freetext
+Free Text:ESOE RWY\36:freetext
+Free Text:ESOE RWY\Outside maneuvering area:freetext
+Free Text:ESOE STAND\Cargo Apron:freetext
+Free Text:ESOE STAND\Deicing:freetext
+Free Text:ESOE STAND\Fuel:freetext
+Free Text:ESOE STAND\GA:freetext
+Free Text:ESOE STAND\Terminal:freetext
+Free Text:ESOE TAXIWAY\A:freetext
+Free Text:ESOE TAXIWAY\C:freetext
+Geo:ESOE Groundlayout:
+Regions:ESOE GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:78.30000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.215350:15.006890:59.234663:15.080043
+PLUGIN:TopSky plugin:HideMapData:ACC

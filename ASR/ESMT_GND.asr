@@ -1,0 +1,49 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESMT RWY\01:freetext
+Free Text:ESMT RWY\06:freetext
+Free Text:ESMT RWY\19:freetext
+Free Text:ESMT RWY\24:freetext
+Free Text:ESMT RWY\Glider only:freetext
+Free Text:ESMT STAND\1:freetext
+Free Text:ESMT STAND\2:freetext
+Free Text:ESMT STAND\3:freetext
+Free Text:ESMT STAND\4:freetext
+Free Text:ESMT STAND\5:freetext
+Free Text:ESMT STAND\6:freetext
+Free Text:ESMT STAND\Aeroclub:freetext
+Free Text:ESMT STAND\APN W:freetext
+Free Text:ESMT STAND\CIV APN:freetext
+Free Text:ESMT STAND\Fuel:freetext
+Free Text:ESMT STAND\MIL APN 1:freetext
+Free Text:ESMT STAND\MIL APN 2:freetext
+Free Text:ESMT STAND\MIL APN 3:freetext
+Free Text:ESMT STAND\Terminal:freetext
+Free Text:ESMT TAXIWAY\A:freetext
+Free Text:ESMT TAXIWAY\APN East:freetext
+Free Text:ESMT TAXIWAY\C:freetext
+Free Text:ESMT TAXIWAY\D:freetext
+Free Text:ESMT TAXIWAY\F:freetext
+Free Text:ESMT TAXIWAY\M:freetext
+Free Text:ESMT TAXIWAY\N:freetext
+Free Text:ESMT TAXIWAY\W:freetext
+Geo:ESMT Groundlayout:
+Regions:ESMT GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:83.80000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:56.679230:12.775031:56.703371:12.866474
+PLUGIN:TopSky plugin:HideMapData:ACC

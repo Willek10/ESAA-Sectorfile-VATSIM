@@ -1,0 +1,71 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESDF MIL\(HKP 14):freetext
+Free Text:ESDF MIL\(HKP 15):freetext
+Free Text:ESDF MIL\(JAS):freetext
+Free Text:ESDF MIL\(TP):freetext
+Free Text:ESDF MIL\B:freetext
+Free Text:ESDF MIL\C:freetext
+Free Text:ESDF MIL\D:freetext
+Free Text:ESDF MIL\E:freetext
+Free Text:ESDF MIL\L:freetext
+Free Text:ESDF MIL\M:freetext
+Free Text:ESDF MIL\MIL APN 1:freetext
+Free Text:ESDF MIL\MIL APN 2:freetext
+Free Text:ESDF MIL\MIL APN 3:freetext
+Free Text:ESDF MIL\MIL APN 4:freetext
+Free Text:ESDF MIL\MIL APN 5:freetext
+Free Text:ESDF MIL\MIL APN 6 (QRA):freetext
+Free Text:ESDF MIL\MIL APN 7:freetext
+Free Text:ESDF MIL\MIL APN 81:freetext
+Free Text:ESDF MIL\N:freetext
+Free Text:ESDF MIL\P:freetext
+Free Text:ESDF MIL\Y:freetext
+Free Text:ESDF MIL\Y:freetext
+Free Text:ESDF MIL\Y:freetext
+Free Text:ESDF MIL\Z:freetext
+Free Text:ESDF MIL\Z:freetext
+Free Text:ESDF MIL\ZA:freetext
+Free Text:ESDF MIL\ZB:freetext
+Free Text:ESDF RWY\01:freetext
+Free Text:ESDF RWY\19:freetext
+Free Text:ESDF RWY\H18:freetext
+Free Text:ESDF RWY\H36:freetext
+Free Text:ESDF RWY\TLOF 1:freetext
+Free Text:ESDF RWY\TLOF 2:freetext
+Free Text:ESDF STAND\1:freetext
+Free Text:ESDF STAND\2A/B:freetext
+Free Text:ESDF STAND\3:freetext
+Free Text:ESDF STAND\41:freetext
+Free Text:ESDF STAND\42:freetext
+Free Text:ESDF STAND\43:freetext
+Free Text:ESDF STAND\Blekinge Aeroclub:freetext
+Free Text:ESDF STAND\Ronneby Aeroclub:freetext
+Free Text:ESDF STAND\Terminal:freetext
+Free Text:ESDF TAXIWAY\A:freetext
+Free Text:ESDF TAXIWAY\D:freetext
+Free Text:ESDF TAXIWAY\W:freetext
+Free Text:ESDF TAXIWAY\Y:freetext
+Geo:ESDF Groundlayout:
+Geo:GEO:
+Regions:ESDF GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:81.35000
+TAGFAMILY:GRplugin
+WINDOWAREA:56.256042:15.222652:56.280184:15.314099
+PLUGIN:Ground Radar plugin:GroundMode:ESDF
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1

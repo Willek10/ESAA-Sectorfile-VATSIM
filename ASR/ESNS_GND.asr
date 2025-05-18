@@ -1,0 +1,38 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:ESNS RWY\10:freetext
+Free Text:ESNS RWY\28:freetext
+Free Text:ESNS STAND\1A:freetext
+Free Text:ESNS STAND\1B:freetext
+Free Text:ESNS STAND\2:freetext
+Free Text:ESNS STAND\3:freetext
+Free Text:ESNS STAND\4:freetext
+Free Text:ESNS STAND\5:freetext
+Free Text:ESNS STAND\6:freetext
+Free Text:ESNS STAND\7:freetext
+Free Text:ESNS STAND\Aeroclub:freetext
+Free Text:ESNS STAND\Fuel:freetext
+Free Text:ESNS STAND\Terminal:freetext
+Free Text:ESNS TAXIWAY\A:freetext
+Geo:ESNS Groundlayout:
+Regions:ESNS GROUND:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:347.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:64.611854:21.032037:64.635994:21.124831
+PLUGIN:Ground Radar plugin:GroundMode:ESNS
+PLUGIN:Ground Radar plugin:HideMapData:TWR
+PLUGIN:TopSky plugin:NoDraw:1
