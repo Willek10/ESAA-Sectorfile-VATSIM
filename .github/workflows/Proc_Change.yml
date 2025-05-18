@@ -31,6 +31,8 @@ jobs:
 
             - [ ] TopSky initial climb (SID)
 
+            - [ ] VatIRIS? (DCTs etc.)
+
             - [ ] Documentation? (renumbering usually don´t require changes)
             
             - [ ] TopSky maps/manual maps?
