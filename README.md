@@ -1,5 +1,5 @@
 # ESAA-Sectorfile
-Sweden FIR plugin and configuration files for the GNG package used by controllers on VATSIM.
+Sweden FIR plugin and settings files for the GNG package used by controllers on VATSIM.
 
 This repository contains non-automatically generated files from our sector file provider AeroNav GNG, including:
 - Plugins
