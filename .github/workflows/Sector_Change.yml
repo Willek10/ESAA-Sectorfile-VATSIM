@@ -38,6 +38,8 @@ jobs:
             - [ ] Vatglasses update
             
             - [ ] Vatspy update (enroute/airport) // Vataware update (TMA)
+
+            - [ ] VatIRIS? (TFC etc.)
             
             - [ ] Other documentation?
 
