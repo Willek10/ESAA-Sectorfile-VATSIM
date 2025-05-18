@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Bugs related to EuroScope/sectorfile
-title: "[BUG] "
+about: Something is not working as intended
+title: 
 labels:
 type: bug
 assignees: ''
