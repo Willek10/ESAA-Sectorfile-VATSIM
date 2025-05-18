@@ -6,6 +6,10 @@ This repository contains non-automatically generated files from our sector file 
 - Settings
 - Manuals
 
+[VatIRIS](https://github.com/minsulander/vatiris/) and [VatPLS](https://github.com/minsulander/vatpls/) have their own repos and are generally not managed here.
+
+Bugs in one of the plugins (TopSky/GRP or CDM) are handled externally on the [VATSIM Scandinavia forums](https://forum.vatsim-scandinavia.org/t/plugins) or [CDM Repo](https://github.com/rpuig2001/CDM)
+
 ## Contributing
 Anyone is welcome to contribute to this project via pull requests.
 
