@@ -4,7 +4,7 @@ about: Anything related to ATIS
 title: "[ATIS]"
 labels: vATIS
 type: feature
-assignees: @mlox86
+assignees: mlox86
 
 ---
 
