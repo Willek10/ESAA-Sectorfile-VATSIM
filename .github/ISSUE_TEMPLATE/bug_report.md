@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 **Screenshots**
-Important: Provide atleast 1 screenshot of your **whole** EuroScope window!
+Important: Provide at least 1 screenshot of your **whole** EuroScope window, showing the flight plan of the relevant aircraft, and with the debug FLEG active (right click ADEP twice in extended label)! 
 
 **Describe the bug**
 A clear and concise description of what the bug is.
