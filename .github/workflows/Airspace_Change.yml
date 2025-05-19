@@ -5,7 +5,7 @@ on:
       - labeled
 jobs:
   add-comment:
-    if: github.event.label.name == 'sectors'
+    if: github.event.label.name == 'airspace'
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -17,9 +17,9 @@ jobs:
           GH_REPO: ${{ github.repository }}
           NUMBER: ${{ github.event.issue.number }}
           BODY: >
-            This issue has been tagged as sector related.
+            This issue has been tagged as airspace related.
             
-            Here is a checklist of items to remember when editing sectors:
+            Here is a checklist of items to remember when editing airspace:
 
             - [ ] Positions GNG
 
