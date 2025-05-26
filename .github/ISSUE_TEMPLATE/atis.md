@@ -1,7 +1,7 @@
 ---
 name: ATIS Bugs/Suggestions
 about: Anything related to ATIS
-title: "[ATIS]"
+title: 
 labels: vATIS
 type: feature
 assignees: mlox86
