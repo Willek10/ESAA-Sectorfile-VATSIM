@@ -1,13 +1,4 @@
-//2024-03-21 ESSA Stand S2L,S3L and ESMS Stand 14 removed. ESSA Stand assignment updated, ESMS RYR revised. ESNU, ESSV, ESNZ, ESNQ, ESTA, ESDF Added
-//2024-05-20 ESSA, ESDF, ESTA, ESNU, ESSV, ESMX, ESNZ, ESNQ Stand assignment revised. ESCF, ESCM, ESGT, ESIB, ESKS, ESMQ, ESMX, ESNN, ESNS, ESNX, ESOW, ESSL addded
-//2024-06-18 ESSA Stand assignment updated (F29L,S80,S81)
-//2024-08-14 ESGG Stand assignment updated, ESSA BRX T3 added. ESKN and ESGP added. ESNN APN M updated.
-//2024-09-07 ESSA Stand definition updated (T3 AT7*, T5 E290/E295)
-//2024-09-27 SAS removed from Group STAR and stand assignment updated. APF,JON moved to T3
-//2024-10-11 ESSA stand definition updated (APN S and Code F aircraft)
-//2025-03-21 ESGG A318 removed from stands with docking to gate. ESCM APN 1+2 added. ESSA SVF GLF5
-//2025-04-14 GVY/H added to T5F, NRD added to T4
-//2025-05-08 ESSA E295 on more stands
+//Refer to GitHub for changes
 
 
 //AIRLINES

@@ -1,12 +1,4 @@
-//2024-05-21 ESGG reworked and Wingspan on APN added, ESSA wingspan map added, ESSA WIP updated and reordered, ESGG WIP added. R16 added. LVP maps ESMS updated, ESNZ, ESPA added
-//2024-06-16 ESSA WIP ZL-ZP and ESGG WIP timespan updated. ESSA Wingspan layering corrected.
-//2024-08-23 ESGG WIP "03 and STD 42/44" added. ESSA Wingspan restrictions added for W2, W4 and now called "Taxiway limitations". ESSA RNP APP added (TWR ASR). ESKN restrictions added. ESSA WIP STD 14 added,
-//2024-08-27 ESSA WIP updated. ESSA Wingspan TWY S added to twy restrictions map.
-//2024-29-28 ESSA, ESCM WIP updated.
-//2025-01-03 ESKN, ESOW WIP, ESSA WIP cleanup.
-//2025-03-21 ESSA Pushback map revised. Revised regions to support GRP Beta. ESSA WIP added.
-//2025-04-17 ESSA WIP (01R/19L+TWY U and TWY U+APN D),ESSA STD 8 push changed, extended ESKN WIP.
-//2025-05-18 ESSA WIP (APN AB), ESSB WIP (APN 6-7), ESGG WIP (N APN), ESNZ WIP (TWY G), ESPA WIP (APN 12B)
+//Refer to GitHub for changes
 
 SCTFILEPATH:..\..\ESAA-*
 
