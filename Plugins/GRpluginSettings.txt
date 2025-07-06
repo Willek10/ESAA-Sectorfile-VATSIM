@@ -11,6 +11,7 @@ System_State_Taxi_Out=TXO
 System_State_LineUp=xLU
 System_State_Depa=xTO
 System_State_Parked=PRK
+Equip_ModeS=ABCGHIJLMNPSTUVWYZ
 List_Alerts=1
 List_Outbound_TYPE=1
 List_Outbound_WTC=1
