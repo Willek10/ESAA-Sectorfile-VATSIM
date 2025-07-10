@@ -1,7 +1,7 @@
 [DCL]
 DCL:ESGG:SID:CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr> EOBT <eobt> <qnh> REQUEST START-UP AND PUSH-BACK FROM <freq_next> <rmk>
 
-DCL:ESSA:SID:CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr> NEXT FREQ <freq_own> <atis> CAUTION CHECK SID IN FMS <qnh> MONITOR <freq_own> AND REPORT READY <rmk>
+DCL:ESSA:SID:CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr> NEXT FREQ <freq_own> <atis> <qnh> MONITOR <freq_own> AND REPORT READY <rmk>
 
 [FREETEXT]
 FREETEXT:UNICOM:AIR TRAFFIC SERVICE TERMINATED FREQUENCY CHANGE APPROVED
