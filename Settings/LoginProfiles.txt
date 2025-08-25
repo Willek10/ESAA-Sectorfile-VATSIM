@@ -204,7 +204,7 @@ ATIS2:Säve Tower
 ATIS3:Covering Säve CTR.
 ATIS4:
 PROFILE:ESGT_TWR:50:4
-ATIS2:Stallbacka Tower
+ATIS2:Trollhättan Tower
 ATIS3:Check coverage at vatglasses.uk
 ATIS4:
 PROFILE:ESIA_APP:150:5
