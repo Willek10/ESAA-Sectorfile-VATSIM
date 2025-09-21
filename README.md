@@ -38,3 +38,9 @@ Current sector file developers:
 - Max Kuhla
 - Petter Jakobsson
 - Martin Loxbo
+
+## Discord
+
+We have a discord server for sectorfile and navigation related development.
+Here we have an open channel for discussions from other members.
+If you wish to join, contact Max Kuhla (@maxlk96) on Discord.
