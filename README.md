@@ -41,6 +41,6 @@ Current sector file developers:
 
 ## Discord
 
-We have a discord server for sectorfile and navigation related development.
-Here we have an open channel for discussions from other members.
+We have a discord server for sectorfile and navigation related development.\
+There is an open channel for discussions from other members.\
 If you wish to join, contact Max Kuhla (@maxlk96) on Discord.
