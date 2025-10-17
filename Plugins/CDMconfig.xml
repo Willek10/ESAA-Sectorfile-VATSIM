@@ -4,11 +4,13 @@
 	<rateLvo ops="10"/>
 	<expiredCtot time="15"/>
 	<realMode mode="false" />
+	<pilotTobt mode="false" />
 	<autoAtot mode="true" />
 	<invalidateAtTsat mode="true"/>
 	<Rates url=""/>
 	<Taxizones url=""/>
 	<Ctot url="https://skytry.xyz/max/ECTOT.txt"/>
+	<sidInterval url="" />
 	<DefaultTaxiTime minutes="15"/>
 	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
 	<RefreshTime seconds="10"/>
