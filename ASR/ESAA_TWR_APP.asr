@@ -391,6 +391,7 @@ Fixes:LIVLI:symbol
 Fixes:LOBBI:symbol
 Fixes:LOFER:symbol
 Fixes:LOMLA:symbol
+Fixes:LUHIQ:symbol
 Fixes:LUKAX:symbol
 Fixes:LUKIG:symbol
 Fixes:LUPET:symbol
@@ -830,7 +831,6 @@ NDBs:AN:symbol
 NDBs:AS:symbol
 NDBs:BL:symbol
 NDBs:DD:symbol
-NDBs:DJ:symbol
 NDBs:DK:symbol
 NDBs:EN:symbol
 NDBs:ERK:symbol
