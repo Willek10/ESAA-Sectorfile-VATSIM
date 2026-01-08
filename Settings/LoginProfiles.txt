@@ -65,7 +65,7 @@ ATIS3:Check coverage at vatglasses.uk
 ATIS4:
 PROFILE:ESMM_IN_APP:150:5
 ATIS2:Sweden Control
-ATIS3:Check coverage at vatglasses.uk
+ATIS3:
 ATIS4:
 PROFILE:ESOS_1_CTR:250:6
 ATIS2:Sweden Control CPDLC ESOS
@@ -263,7 +263,7 @@ PROFILE:ESMS_XL_APP:150:5
 ATIS2:Sweden Control CPDLC ESMS
 ATIS3:
 ATIS4:
-PROFILE:ESMS_IS_APP:150:5
+PROFILE:ESMM_IS_APP:150:5
 ATIS2:Sweden Control
 ATIS3:
 ATIS4:
