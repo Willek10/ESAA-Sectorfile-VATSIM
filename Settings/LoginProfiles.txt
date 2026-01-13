@@ -203,10 +203,6 @@ PROFILE:ESGJ_TWR:50:4
 ATIS2:Jönköping Tower
 ATIS3:Covering Jönköping CTR and TMA.
 ATIS4:
-PROFILE:ESGP_TWR:50:4
-ATIS2:Säve Tower
-ATIS3:Covering Säve CTR.
-ATIS4:
 PROFILE:ESGT_TWR:50:4
 ATIS2:Stallbacka Tower
 ATIS3:Check coverage at vatglasses.uk
